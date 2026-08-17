@@ -1,0 +1,15 @@
+[Unit]
+Description=Lyuks Do'kon Telegram bot
+After=network.target
+
+[Service]
+Type=simple
+# CHANGE these two paths to match your server:
+WorkingDirectory=/home/YOUR_USER/lyuks-bot/bot
+ExecStart=/home/YOUR_USER/lyuks-bot/bot/venv/bin/python bot.py
+# restart the bot automatically if it ever crashes
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

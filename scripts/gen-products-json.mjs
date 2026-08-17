@@ -4,7 +4,9 @@
 // order from its own products.json. That file is generated from src/data/products.js
 // by this script — otherwise the two drift and the bot quietly charges old prices.
 //
-// Destination defaults to the sibling bot checkout; override with BOT_DIR:
+// The bot now lives in this repo at bot/, so the generated file lands right
+// next to the code that reads it and travels in the same commit. Override
+// with BOT_DIR if it ever moves:
 //   BOT_DIR=../some/other/bot npm run gen-products
 import { writeFileSync, existsSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
@@ -12,11 +14,7 @@ import { fileURLToPath } from "node:url";
 import { products } from "../src/data/products.js";
 
 const here = dirname(fileURLToPath(import.meta.url));
-const botDir = resolve(
-  here,
-  "..",
-  process.env.BOT_DIR || "../lyuks bot 2/bot"
-);
+const botDir = resolve(here, "..", process.env.BOT_DIR || "bot");
 
 if (!existsSync(botDir)) {
   // Not an error: the site builds fine on Vercel, where the bot isn't checked

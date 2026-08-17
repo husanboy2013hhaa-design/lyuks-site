@@ -1,9 +1,14 @@
 .vercel
-.env*.local
 .env
+.env*.local
 
 node_modules
 
-# The bot is a separate project — it lives in "lyuks bot 2/bot".
-# A second copy here is how a hardcoded token ended up in this repo.
-bot/
+# The bot lives in bot/ and deploys to Render (Root Directory: bot).
+# Its secrets and runtime files must never be committed — the token
+# belongs in Render's environment variables, not in the repo.
+bot/.env
+bot/.env.*
+bot/__pycache__/
+bot/state.json
+*.pyc

@@ -1,0 +1,7817 @@
+{
+ "1": {
+  "name": "Sardor Semichka 100gr",
+  "price": 10000,
+  "stock": 16
+ },
+ "2": {
+  "name": "Sardor Semichka 150gr",
+  "price": 15000,
+  "stock": 24
+ },
+ "3": {
+  "name": "Sardor Semichka 200gr",
+  "price": 20000,
+  "stock": 20
+ },
+ "4": {
+  "name": "Iris Sendwich mini",
+  "price": 5000,
+  "stock": 5
+ },
+ "5": {
+  "name": "Iris Sandwich mix",
+  "price": 10000,
+  "stock": 10
+ },
+ "6": {
+  "name": "Iris Gamburger va sendchichlar",
+  "price": 13000,
+  "stock": 13
+ },
+ "7": {
+  "name": "Sherin Canada Sasiska",
+  "price": 30000,
+  "stock": 48
+ },
+ "8": {
+  "name": "Min Jour 2kg",
+  "price": 135000,
+  "stock": 1
+ },
+ "9": {
+  "name": "Chimboy Mayanez 900ml",
+  "price": 20000,
+  "stock": 18
+ },
+ "10": {
+  "name": "Chigatoy Mayanez 900ml",
+  "price": 20000,
+  "stock": 16
+ },
+ "11": {
+  "name": "Toshkent Miniral Sport 05L",
+  "price": 8000,
+  "stock": 24
+ },
+ "12": {
+  "name": "Kefir 2.5% MP900gr",
+  "price": 14000,
+  "stock": 4
+ },
+ "13": {
+  "name": "Rashmilk Masla 500gr",
+  "price": 60000,
+  "stock": 2
+ },
+ "14": {
+  "name": "Rashmilk Masla 200gr",
+  "price": 26000,
+  "stock": 4
+ },
+ "15": {
+  "name": "Molli Yogurt Baklashka",
+  "price": 8000,
+  "stock": 6
+ },
+ "16": {
+  "name": "Miro Yogurt Baklashka",
+  "price": 9000,
+  "stock": 10
+ },
+ "17": {
+  "name": "Molli Stakan Yogurt",
+  "price": 4000,
+  "stock": 24
+ },
+ "18": {
+  "name": "Lulu Yogurt",
+  "price": 3000,
+  "stock": 24
+ },
+ "19": {
+  "name": "Miro Yogurt Stakan Mix",
+  "price": 5000,
+  "stock": 36
+ },
+ "20": {
+  "name": "Toothpick",
+  "price": 10000,
+  "stock": 12
+ },
+ "21": {
+  "name": "Bamboo ToothPics",
+  "price": 10000,
+  "stock": 12
+ },
+ "22": {
+  "name": "Vicon Zubachist 30talik",
+  "price": 10000,
+  "stock": 24
+ },
+ "23": {
+  "name": "Shpashka 50talik",
+  "price": 10000,
+  "stock": 5
+ },
+ "24": {
+  "name": "Muzqaymoq qoshiq 50talik",
+  "price": 10000,
+  "stock": 8
+ },
+ "25": {
+  "name": "Trubochki 80ta",
+  "price": 12000,
+  "stock": 5
+ },
+ "26": {
+  "name": "Salfetka Qalin",
+  "price": 10000,
+  "stock": 26
+ },
+ "27": {
+  "name": "Salfetka Gulli",
+  "price": 8000,
+  "stock": 32
+ },
+ "28": {
+  "name": "Piki dlya Fruktov",
+  "price": 10000,
+  "stock": 5
+ },
+ "29": {
+  "name": "Niso Classic White",
+  "price": 10000,
+  "stock": 20
+ },
+ "30": {
+  "name": "Jemchug Perchatka",
+  "price": 8000,
+  "stock": 7
+ },
+ "31": {
+  "name": "Rangli Skotch Katta",
+  "price": 23000,
+  "stock": 10
+ },
+ "32": {
+  "name": "Skotch 36x50",
+  "price": 10000,
+  "stock": 17
+ },
+ "33": {
+  "name": "Skotch 36x30",
+  "price": 8000,
+  "stock": 7
+ },
+ "34": {
+  "name": "Skotch 3.6x20",
+  "price": 5000,
+  "stock": 7
+ },
+ "35": {
+  "name": "Skotch 4.5x50",
+  "price": 10000,
+  "stock": 5
+ },
+ "36": {
+  "name": "Skotch 4.5x30",
+  "price": 8000,
+  "stock": 5
+ },
+ "37": {
+  "name": "Skotch 4.5x20",
+  "price": 5000,
+  "stock": 5
+ },
+ "38": {
+  "name": "Skotch o'rta",
+  "price": 5000,
+  "stock": 48
+ },
+ "39": {
+  "name": "Skotch kichik",
+  "price": 2000,
+  "stock": 48
+ },
+ "40": {
+  "name": "Tarelka Qog'ozli",
+  "price": 15000,
+  "stock": 9
+ },
+ "41": {
+  "name": "Sovg'a Karobka 55x45",
+  "price": 20000,
+  "stock": 10
+ },
+ "42": {
+  "name": "Sovg'a Karobka 50x40",
+  "price": 18000,
+  "stock": 15
+ },
+ "43": {
+  "name": "Sovg'a Karobka 30x40",
+  "price": 16000,
+  "stock": 24
+ },
+ "44": {
+  "name": "Sovg'a Karobka 26x12",
+  "price": 15000,
+  "stock": 20
+ },
+ "45": {
+  "name": "Sovg'a Karobka 26x32",
+  "price": 15000,
+  "stock": 23
+ },
+ "46": {
+  "name": "Sovg'a Karobka 23x10",
+  "price": 10000,
+  "stock": 19
+ },
+ "47": {
+  "name": "Sovg'a Karobka 15x7",
+  "price": 8000,
+  "stock": 20
+ },
+ "48": {
+  "name": "Bedana Tuxum 20",
+  "price": 10000,
+  "stock": 15
+ },
+ "49": {
+  "name": "Qanot Paxta Yog 5l",
+  "price": 98000,
+  "stock": 6
+ },
+ "50": {
+  "name": "Avedov Pista Yogi 1l",
+  "price": 24000,
+  "stock": 15
+ },
+ "51": {
+  "name": "Sochnaya Dolina mix 1L",
+  "price": 14000,
+  "stock": 22
+ },
+ "52": {
+  "name": "Aksoy 0.5L",
+  "price": 2000,
+  "stock": 1
+ },
+ "53": {
+  "name": "Bonaqua 0.5L",
+  "price": 3000,
+  "stock": 39
+ },
+ "54": {
+  "name": "Chopakli choy 0.5L",
+  "price": 2000,
+  "stock": 20
+ },
+ "55": {
+  "name": "Asu 0.5L",
+  "price": 5000,
+  "stock": 6
+ },
+ "56": {
+  "name": "Asu 1L",
+  "price": 7000,
+  "stock": 8
+ },
+ "57": {
+  "name": "Lipton 1.5L",
+  "price": 15000,
+  "stock": 5
+ },
+ "58": {
+  "name": "Chortoq 1.5l",
+  "price": 13000,
+  "stock": 6
+ },
+ "59": {
+  "name": "Chortoq 05",
+  "price": 6000,
+  "stock": 11
+ },
+ "60": {
+  "name": "Dinay 1L Mix",
+  "price": 12000,
+  "stock": 4
+ },
+ "61": {
+  "name": "Cheers Chips 210gr",
+  "price": 25000,
+  "stock": 25
+ },
+ "62": {
+  "name": "Cheers Chips 130gr",
+  "price": 20000,
+  "stock": 29
+ },
+ "63": {
+  "name": "Cheers Chips 70gr",
+  "price": 10000,
+  "stock": 47
+ },
+ "64": {
+  "name": "Cheers Chips 27gr",
+  "price": 5000,
+  "stock": 99
+ },
+ "65": {
+  "name": "Cheers Chips 45gr",
+  "price": 7000,
+  "stock": 64
+ },
+ "66": {
+  "name": "Sharqona Qurt Idish 40gr",
+  "price": 7000,
+  "stock": 38
+ },
+ "67": {
+  "name": "Cheetos 26gr",
+  "price": 4000,
+  "stock": 4
+ },
+ "68": {
+  "name": "Maxeev Mayonez 190gr",
+  "price": 13000,
+  "stock": 3
+ },
+ "69": {
+  "name": "Maxeev Mayonez 380gr",
+  "price": 22000,
+  "stock": 4
+ },
+ "70": {
+  "name": "Maxeev Mayonez 190gr",
+  "price": 12000,
+  "stock": 2
+ },
+ "71": {
+  "name": "Maxeev Mayonez 380gr",
+  "price": 21000,
+  "stock": 4
+ },
+ "72": {
+  "name": "Maxeev Mayonez 190gr",
+  "price": 15000,
+  "stock": 4
+ },
+ "73": {
+  "name": "Maxeev Adjika 190gr",
+  "price": 17000,
+  "stock": 5
+ },
+ "74": {
+  "name": "Maxeev Gorchitsa 190gr",
+  "price": 15000,
+  "stock": 5
+ },
+ "75": {
+  "name": "Maxeev Mayonez 380gr",
+  "price": 22000,
+  "stock": 3
+ },
+ "76": {
+  "name": "Maxeev Mayonez 190gr",
+  "price": 14000,
+  "stock": 3
+ },
+ "77": {
+  "name": "Maxeev Mayonez 380gr",
+  "price": 22000,
+  "stock": 4
+ },
+ "78": {
+  "name": "Maxeev Djem 400gr",
+  "price": 37000,
+  "stock": 20
+ },
+ "79": {
+  "name": "Maxeev Ketchup 300gr",
+  "price": 14000,
+  "stock": 12
+ },
+ "80": {
+  "name": "Maxeev Mayonez Paqir 800gr",
+  "price": 37000,
+  "stock": 2
+ },
+ "81": {
+  "name": "Musa Briquette",
+  "price": 10000,
+  "stock": 24
+ },
+ "82": {
+  "name": "badiroq dona",
+  "price": 5000,
+  "stock": 48
+ },
+ "83": {
+  "name": "King Lamb 400gr",
+  "price": 22000,
+  "stock": 4
+ },
+ "84": {
+  "name": "Albeni Chokolata 93gr",
+  "price": 30000,
+  "stock": 6
+ },
+ "85": {
+  "name": "Albeni Sutli 175gr",
+  "price": 10000,
+  "stock": 16
+ },
+ "86": {
+  "name": "Albei Kakao 175gr",
+  "price": 10000,
+  "stock": 11
+ },
+ "87": {
+  "name": "Albeni Round 240gr",
+  "price": 38000,
+  "stock": 10
+ },
+ "88": {
+  "name": "Albeni Bites 72gr",
+  "price": 10000,
+  "stock": 22
+ },
+ "89": {
+  "name": "Albeni Bites 180gr",
+  "price": 25000,
+  "stock": 12
+ },
+ "90": {
+  "name": "YJF Ossobiy",
+  "price": 10000,
+  "stock": 5
+ },
+ "91": {
+  "name": "YJF Ossobiy",
+  "price": 10000,
+  "stock": 4
+ },
+ "92": {
+  "name": "YJF Tostirniy 600gr",
+  "price": 13000,
+  "stock": 1
+ },
+ "93": {
+  "name": "YJF Bez Saxar",
+  "price": 10000,
+  "stock": 2
+ },
+ "94": {
+  "name": "YJF Avstriskiy",
+  "price": 10000,
+  "stock": 10
+ },
+ "95": {
+  "name": "YJF Bananli Keks 300gr",
+  "price": 18000,
+  "stock": 27
+ },
+ "96": {
+  "name": "YJF Klassik Keks 300gr",
+  "price": 20000,
+  "stock": 25
+ },
+ "97": {
+  "name": "YJF Rulet 300gr",
+  "price": 20000,
+  "stock": 10
+ },
+ "98": {
+  "name": "YJF Best Keks 250gr",
+  "price": 15000,
+  "stock": 10
+ },
+ "99": {
+  "name": "Bomazza Yogurt 110gr Mix",
+  "price": 6000,
+  "stock": 6
+ },
+ "100": {
+  "name": "YJF Seva 120gr",
+  "price": 10000,
+  "stock": 25
+ },
+ "101": {
+  "name": "Biskivit Keks",
+  "price": 9000,
+  "stock": 87
+ },
+ "102": {
+  "name": "YJF Nachinka",
+  "price": 23000,
+  "stock": 61
+ },
+ "103": {
+  "name": "YJF mini tort",
+  "price": 8000,
+  "stock": 23
+ },
+ "104": {
+  "name": "Malina Ice cream",
+  "price": 35000,
+  "stock": 5
+ },
+ "105": {
+  "name": "Saber Ice cream",
+  "price": 18000,
+  "stock": 1
+ },
+ "106": {
+  "name": "Ice Gold",
+  "price": 13000,
+  "stock": 3
+ },
+ "107": {
+  "name": "Pops Ice cream",
+  "price": 75000,
+  "stock": 11
+ },
+ "108": {
+  "name": "Italiano Ice cream",
+  "price": 45000,
+  "stock": 5
+ },
+ "109": {
+  "name": "Gold Ice cream",
+  "price": 50000,
+  "stock": 8
+ },
+ "110": {
+  "name": "Steak Ice cream",
+  "price": 30000,
+  "stock": 21
+ },
+ "111": {
+  "name": "Steak Ice cream",
+  "price": 30000,
+  "stock": 21
+ },
+ "112": {
+  "name": "Atlas Dubai",
+  "price": 20000,
+  "stock": 16
+ },
+ "113": {
+  "name": "Sabzi Ice cream",
+  "price": 30000,
+  "stock": 21
+ },
+ "114": {
+  "name": "Gold 0.5kg",
+  "price": 15000,
+  "stock": 7
+ },
+ "115": {
+  "name": "Papino Ice cream",
+  "price": 10000,
+  "stock": 28
+ },
+ "116": {
+  "name": "Chortoq Carvon",
+  "price": 10000,
+  "stock": 15
+ },
+ "117": {
+  "name": "Papito Ice cream",
+  "price": 10000,
+  "stock": 12
+ },
+ "118": {
+  "name": "Dadu Ice cream",
+  "price": 6000,
+  "stock": 14
+ },
+ "119": {
+  "name": "Piramida Ice cream",
+  "price": 6000,
+  "stock": 13
+ },
+ "120": {
+  "name": "Anjan Ice cream",
+  "price": 5000,
+  "stock": 7
+ },
+ "121": {
+  "name": "Ccr Rajok",
+  "price": 5000,
+  "stock": 14
+ },
+ "122": {
+  "name": "Dubay Pista Ice cream",
+  "price": 5000,
+  "stock": 20
+ },
+ "123": {
+  "name": "Kashtan Sezar",
+  "price": 5000,
+  "stock": 8
+ },
+ "124": {
+  "name": "Kivi Ice Cream",
+  "price": 3000,
+  "stock": 37
+ },
+ "125": {
+  "name": "Gold 9999",
+  "price": 5000,
+  "stock": 20
+ },
+ "126": {
+  "name": "Moskoviske Ice Cream",
+  "price": 6000,
+  "stock": 48
+ },
+ "127": {
+  "name": "Kashtan Sutli",
+  "price": 2000,
+  "stock": 32
+ },
+ "128": {
+  "name": "Rashmil Smetana 25%",
+  "price": 15000,
+  "stock": 4
+ },
+ "129": {
+  "name": "Lavash Hamir",
+  "price": 10000,
+  "stock": 0
+ },
+ "130": {
+  "name": "Rashmilk Ayron 900ml",
+  "price": 16000,
+  "stock": 5
+ },
+ "131": {
+  "name": "Rashmilk  Qatiq",
+  "price": 14000,
+  "stock": 6
+ },
+ "132": {
+  "name": "Rashmilk Kefir 1l",
+  "price": 14000,
+  "stock": 4
+ },
+ "133": {
+  "name": "Rashmilk Tvorog 5% 350gr",
+  "price": 15000,
+  "stock": 1
+ },
+ "134": {
+  "name": "Rashmilk Reajinka 2.5%",
+  "price": 8000,
+  "stock": 2
+ },
+ "135": {
+  "name": "Rash Milk Kefir 0.5%",
+  "price": 6000,
+  "stock": 2
+ },
+ "136": {
+  "name": "Rash Milk Kefir 2.5%",
+  "price": 7000,
+  "stock": 2
+ },
+ "137": {
+  "name": "Rash milk 20%",
+  "price": 14000,
+  "stock": 3
+ },
+ "138": {
+  "name": "Rashmilk Smetana 15%",
+  "price": 12000,
+  "stock": 3
+ },
+ "139": {
+  "name": "Frumi  Mix",
+  "price": 500,
+  "stock": 1148
+ },
+ "140": {
+  "name": "Grizzly 55gr",
+  "price": 10000,
+  "stock": 13
+ },
+ "141": {
+  "name": "Big Bob Magiz 50gr",
+  "price": 6000,
+  "stock": 10
+ },
+ "142": {
+  "name": "Coco Sovgali",
+  "price": 4000,
+  "stock": 79
+ },
+ "143": {
+  "name": "Aloe 1.5",
+  "price": 25000,
+  "stock": 23
+ },
+ "144": {
+  "name": "Bogatir Dona",
+  "price": 6000,
+  "stock": 47
+ },
+ "145": {
+  "name": "Manniy krupa dona",
+  "price": 5000,
+  "stock": 47
+ },
+ "146": {
+  "name": "Suxarik Sladkiy",
+  "price": 30000,
+  "stock": 7
+ },
+ "147": {
+  "name": "Pechenye Корови 180gr",
+  "price": 11000,
+  "stock": 29
+ },
+ "148": {
+  "name": "Ukraina Vafli",
+  "price": 7000,
+  "stock": 30
+ },
+ "149": {
+  "name": "Aygen Paket Katta",
+  "price": 5000,
+  "stock": 96
+ },
+ "150": {
+  "name": "Aygen Paket Kichik",
+  "price": 3000,
+  "stock": 98
+ },
+ "151": {
+  "name": "GreenLife Streych",
+  "price": 35000,
+  "stock": 3
+ },
+ "152": {
+  "name": "Stretch BoWangWrap",
+  "price": 50000,
+  "stock": 2
+ },
+ "153": {
+  "name": "Elma Aroma Moshinaga",
+  "price": 15000,
+  "stock": 6
+ },
+ "154": {
+  "name": "Shar Pachka",
+  "price": 40000,
+  "stock": 4
+ },
+ "155": {
+  "name": "Salyut",
+  "price": 30000,
+  "stock": 3
+ },
+ "156": {
+  "name": "Happy Birthday Candle",
+  "price": 15000,
+  "stock": 10
+ },
+ "157": {
+  "name": "Birthday Candle",
+  "price": 5000,
+  "stock": 10
+ },
+ "158": {
+  "name": "Raqam To'rtga Mix",
+  "price": 4000,
+  "stock": 38
+ },
+ "159": {
+  "name": "Imbir 10gr",
+  "price": 5000,
+  "stock": 10
+ },
+ "160": {
+  "name": "Amoy Soya Sous 500ml",
+  "price": 11000,
+  "stock": 9
+ },
+ "161": {
+  "name": "Amoy Soya Sous 180ml",
+  "price": 7000,
+  "stock": 9
+ },
+ "162": {
+  "name": "Olma Sirkasi",
+  "price": 10000,
+  "stock": 10
+ },
+ "163": {
+  "name": "Qizil Qalampir 25gr",
+  "price": 5000,
+  "stock": 9
+ },
+ "164": {
+  "name": "Wan Bao Lu Zubachistka",
+  "price": 1000,
+  "stock": 100
+ },
+ "165": {
+  "name": "Yoqimli ishtaxa Zubachistka",
+  "price": 4000,
+  "stock": 10
+ },
+ "166": {
+  "name": "Murch Oliy Nav",
+  "price": 5000,
+  "stock": 19
+ },
+ "167": {
+  "name": "Xitoy Tuz Lotus MSG",
+  "price": 6000,
+  "stock": 10
+ },
+ "168": {
+  "name": "Xitoy Tuz Lotus MSG",
+  "price": 4000,
+  "stock": 20
+ },
+ "169": {
+  "name": "Xitoy Tuz MSG",
+  "price": 2000,
+  "stock": 50
+ },
+ "170": {
+  "name": "Zira Sedana Kunjut",
+  "price": 2000,
+  "stock": 60
+ },
+ "171": {
+  "name": "Priprava Mix",
+  "price": 2000,
+  "stock": 85
+ },
+ "172": {
+  "name": "Kent",
+  "price": 2000,
+  "stock": 80
+ },
+ "173": {
+  "name": "Razrixlitel Testa",
+  "price": 4000,
+  "stock": 18
+ },
+ "174": {
+  "name": "Kakao 40gr",
+  "price": 3000,
+  "stock": 10
+ },
+ "175": {
+  "name": "S.Pudra Kraxmal L.Kislata Mix",
+  "price": 2000,
+  "stock": 26
+ },
+ "176": {
+  "name": "Angel Droj 100gr",
+  "price": 7000,
+  "stock": 16
+ },
+ "177": {
+  "name": "Angel Droj 15gr",
+  "price": 2000,
+  "stock": 26
+ },
+ "178": {
+  "name": "Qol Sochiq Kichik",
+  "price": 35000,
+  "stock": 20
+ },
+ "179": {
+  "name": "Qol Sochiq Orta",
+  "price": 30000,
+  "stock": 20
+ },
+ "180": {
+  "name": "Qol Sochiq Katta",
+  "price": 40000,
+  "stock": 19
+ },
+ "181": {
+  "name": "Uksus Andijon",
+  "price": 6000,
+  "stock": 18
+ },
+ "182": {
+  "name": "Uksus 70",
+  "price": 3000,
+  "stock": 30
+ },
+ "183": {
+  "name": "Purely Natural",
+  "price": 5000,
+  "stock": 10
+ },
+ "184": {
+  "name": "AAA karton stakan",
+  "price": 1000,
+  "stock": 397
+ },
+ "185": {
+  "name": "Flash Russia Can",
+  "price": 13000,
+  "stock": 47
+ },
+ "186": {
+  "name": "Anor Can",
+  "price": 5000,
+  "stock": 37
+ },
+ "187": {
+  "name": "Royal Anor Can",
+  "price": 6000,
+  "stock": 44
+ },
+ "188": {
+  "name": "Oleyna 5L",
+  "price": 140000,
+  "stock": 3
+ },
+ "189": {
+  "name": "Oleyna 3L",
+  "price": 85000,
+  "stock": 5
+ },
+ "190": {
+  "name": "Karak Tea Mix",
+  "price": 3000,
+  "stock": 239
+ },
+ "191": {
+  "name": "bbb plastic stakan bbb",
+  "price": 500,
+  "stock": 924
+ },
+ "192": {
+  "name": "Ava Laym 0.45",
+  "price": 10000,
+  "stock": 12
+ },
+ "193": {
+  "name": "Ava Lemonad 0.45",
+  "price": 10000,
+  "stock": 12
+ },
+ "194": {
+  "name": "Ava Nok 0.45",
+  "price": 10000,
+  "stock": 10
+ },
+ "195": {
+  "name": "Dinay Miks 0.5",
+  "price": 8000,
+  "stock": 11
+ },
+ "196": {
+  "name": "Dinay Anor 0.5",
+  "price": 8000,
+  "stock": 11
+ },
+ "197": {
+  "name": "Musa Gazeta",
+  "price": 7000,
+  "stock": 30
+ },
+ "198": {
+  "name": "Musa Magnit",
+  "price": 5000,
+  "stock": 50
+ },
+ "199": {
+  "name": "Musa Chocolate",
+  "price": 10000,
+  "stock": 27
+ },
+ "200": {
+  "name": "Musa Almond",
+  "price": 10000,
+  "stock": 33
+ },
+ "201": {
+  "name": "Alfetto Asarti",
+  "price": 10000,
+  "stock": 23
+ },
+ "202": {
+  "name": "Musa Milk Joy Mix",
+  "price": 26000,
+  "stock": 4
+ },
+ "203": {
+  "name": "BissGO Organic",
+  "price": 5000,
+  "stock": 32
+ },
+ "204": {
+  "name": "BissGO Eskimo",
+  "price": 10000,
+  "stock": 24
+ },
+ "205": {
+  "name": "Musa Surprise",
+  "price": 10000,
+  "stock": 35
+ },
+ "206": {
+  "name": "Musa Rais",
+  "price": 8000,
+  "stock": 20
+ },
+ "207": {
+  "name": "Musa Sorbet",
+  "price": 5000,
+  "stock": 34
+ },
+ "208": {
+  "name": "BissGO Capsula",
+  "price": 40000,
+  "stock": 9
+ },
+ "209": {
+  "name": "BissGo Mini Cone",
+  "price": 24000,
+  "stock": 18
+ },
+ "210": {
+  "name": "BissGO Dubai",
+  "price": 24000,
+  "stock": 18
+ },
+ "211": {
+  "name": "Musa Sirok",
+  "price": 5000,
+  "stock": 27
+ },
+ "212": {
+  "name": "Ukrainskoe 82% 200g",
+  "price": 12000,
+  "stock": 27
+ },
+ "213": {
+  "name": "Ukrainskoe 82% 500g",
+  "price": 29000,
+  "stock": 7
+ },
+ "214": {
+  "name": "Mors Meva 2l",
+  "price": 5000,
+  "stock": 51
+ },
+ "215": {
+  "name": "Taqvo Qora non",
+  "price": 10000,
+  "stock": 1
+ },
+ "216": {
+  "name": "Zipp Bumaga 6dona",
+  "price": 10000,
+  "stock": 23
+ },
+ "217": {
+  "name": "Tuxumjon 10dona",
+  "price": 15000,
+  "stock": 0
+ },
+ "218": {
+  "name": "Tuxumjon 15dona",
+  "price": 22000,
+  "stock": 2
+ },
+ "219": {
+  "name": "Tuxumjon 30dona",
+  "price": 35000,
+  "stock": 0
+ },
+ "220": {
+  "name": "Chortoq 0.75",
+  "price": 15000,
+  "stock": 22
+ },
+ "221": {
+  "name": "Toshken mineral 1.0 Gazli va Gazsiz",
+  "price": 8000,
+  "stock": 43
+ },
+ "222": {
+  "name": "Toshken mineral 0.5",
+  "price": 5000,
+  "stock": 19
+ },
+ "223": {
+  "name": "Maselko Milkini Moloko 8.5% 320gr",
+  "price": 10000,
+  "stock": 15
+ },
+ "224": {
+  "name": "Maselko Lakomka 8.5% 250gr",
+  "price": 10000,
+  "stock": 12
+ },
+ "225": {
+  "name": "Maselko Zayka 8.5%",
+  "price": 10000,
+  "stock": 12
+ },
+ "226": {
+  "name": "Maselko Solnechniy 72.5% 200gr",
+  "price": 10000,
+  "stock": 40
+ },
+ "227": {
+  "name": "Maselko Derevnskoe 82.5% 200gr",
+  "price": 15000,
+  "stock": 17
+ },
+ "228": {
+  "name": "Maselko 72% 500gr",
+  "price": 23000,
+  "stock": 10
+ },
+ "229": {
+  "name": "Maselko Nashe 82.5% 500gr",
+  "price": 25000,
+  "stock": 10
+ },
+ "230": {
+  "name": "Maselko Nashe 82.5% 200gr",
+  "price": 12000,
+  "stock": 20
+ },
+ "231": {
+  "name": "Shorle 0.5 mix",
+  "price": 5000,
+  "stock": 177
+ },
+ "232": {
+  "name": "Kojik Pachka",
+  "price": 10000,
+  "stock": 9
+ },
+ "233": {
+  "name": "Chortoq kuchli gazli 0.5",
+  "price": 4000,
+  "stock": 17
+ },
+ "234": {
+  "name": "Adrenaline 0.45",
+  "price": 16000,
+  "stock": 44
+ },
+ "235": {
+  "name": "Bonaqua gazli 1.0",
+  "price": 5000,
+  "stock": 27
+ },
+ "236": {
+  "name": "kir Sovun Russia",
+  "price": 6000,
+  "stock": 145
+ },
+ "237": {
+  "name": "Kopum kapsula dona",
+  "price": 6000,
+  "stock": 54
+ },
+ "238": {
+  "name": "Kir sovun rassiya",
+  "price": 6000,
+  "stock": 141
+ },
+ "239": {
+  "name": "Fanta 1.5",
+  "price": 15000,
+  "stock": 4
+ },
+ "240": {
+  "name": "bonaqua 1.0",
+  "price": 5000,
+  "stock": 26
+ },
+ "241": {
+  "name": "Aloe 0.5",
+  "price": 10000,
+  "stock": 59
+ },
+ "242": {
+  "name": "Chortoq kuchli gazli 1.0",
+  "price": 5000,
+  "stock": 14
+ },
+ "243": {
+  "name": "Nataxtari 1.0",
+  "price": 18000,
+  "stock": 236
+ },
+ "244": {
+  "name": "Cappy pet 0.5",
+  "price": 10000,
+  "stock": 95
+ },
+ "245": {
+  "name": "Fuse tea pet 0.5",
+  "price": 7000,
+  "stock": 159
+ },
+ "246": {
+  "name": "Fuse tea pet 1.5",
+  "price": 14000,
+  "stock": 14
+ },
+ "247": {
+  "name": "Flavis pet 0.5",
+  "price": 7000,
+  "stock": 269
+ },
+ "248": {
+  "name": "Chernogolovka pet 1.5",
+  "price": 13000,
+  "stock": 149
+ },
+ "249": {
+  "name": "AAA Qurtop dona",
+  "price": 1000,
+  "stock": 220
+ },
+ "250": {
+  "name": "Coca cola 0.5L",
+  "price": 7000,
+  "stock": 79
+ },
+ "251": {
+  "name": "Coca Cola 1L",
+  "price": 11000,
+  "stock": 27
+ },
+ "252": {
+  "name": "Flavis pet 1.2",
+  "price": 13000,
+  "stock": 203
+ },
+ "253": {
+  "name": "Ideal Tomat 0,5L",
+  "price": 16000,
+  "stock": 119
+ },
+ "254": {
+  "name": "Ideal Tomat 1L",
+  "price": 28000,
+  "stock": 48
+ },
+ "255": {
+  "name": "Ibrat Tomat 0.5L",
+  "price": 17000,
+  "stock": 153
+ },
+ "256": {
+  "name": "Ibrat Tomat 3L",
+  "price": 90000,
+  "stock": 4
+ },
+ "257": {
+  "name": "Ibrat Tomat 1L",
+  "price": 30000,
+  "stock": 476
+ },
+ "258": {
+  "name": "Hydrolife pet 1.0 Gazli",
+  "price": 4000,
+  "stock": 353
+ },
+ "259": {
+  "name": "Dena 1.0",
+  "price": 14000,
+  "stock": 122
+ },
+ "260": {
+  "name": "Barilla Spaghettini 450gr",
+  "price": 17000,
+  "stock": 24
+ },
+ "261": {
+  "name": "Aksoy pet 1.0",
+  "price": 4000,
+  "stock": 587
+ },
+ "262": {
+  "name": "Hydrolife pet 0.5",
+  "price": 3000,
+  "stock": 278
+ },
+ "263": {
+  "name": "Arktea pet 0.5l",
+  "price": 5000,
+  "stock": 48
+ },
+ "264": {
+  "name": "Sayxun pet 0.5l",
+  "price": 3000,
+  "stock": 410
+ },
+ "265": {
+  "name": "Hochland 220gr",
+  "price": 41000,
+  "stock": 3
+ },
+ "266": {
+  "name": "Hochland 140gr",
+  "price": 30000,
+  "stock": 3
+ },
+ "267": {
+  "name": "Hochland 100gr",
+  "price": 17000,
+  "stock": 12
+ },
+ "268": {
+  "name": "Hochland 50gr",
+  "price": 10000,
+  "stock": 8
+ },
+ "269": {
+  "name": "Hochland CHizburger 150gr",
+  "price": 30000,
+  "stock": 9
+ },
+ "270": {
+  "name": "Hochland 140gr",
+  "price": 30000,
+  "stock": 9
+ },
+ "271": {
+  "name": "Hochland 200gr",
+  "price": 37000,
+  "stock": 14
+ },
+ "272": {
+  "name": "Hochlan sir 400gr",
+  "price": 66000,
+  "stock": 6
+ },
+ "273": {
+  "name": "Hochland Slivochniy 400gr",
+  "price": 66000,
+  "stock": 6
+ },
+ "274": {
+  "name": "Ehrmann",
+  "price": 17000,
+  "stock": 6
+ },
+ "275": {
+  "name": "Nejniy 285gr",
+  "price": 9000,
+  "stock": 5
+ },
+ "276": {
+  "name": "Ehrmann",
+  "price": 17000,
+  "stock": 4
+ },
+ "277": {
+  "name": "Ehrmann 420gr",
+  "price": 24000,
+  "stock": 5
+ },
+ "278": {
+  "name": "Ehrmann 290gr",
+  "price": 17000,
+  "stock": 5
+ },
+ "279": {
+  "name": "Ermugurt 420gr",
+  "price": 23000,
+  "stock": 6
+ },
+ "280": {
+  "name": "Alpenland 290gr",
+  "price": 15000,
+  "stock": 5
+ },
+ "281": {
+  "name": "Nejniy 0.1% 285gr",
+  "price": 17000,
+  "stock": 6
+ },
+ "282": {
+  "name": "Alpenland 420gr",
+  "price": 20000,
+  "stock": 10
+ },
+ "283": {
+  "name": "Ehrmann 280gr",
+  "price": 17000,
+  "stock": 12
+ },
+ "284": {
+  "name": "Nejniy 420gr",
+  "price": 23000,
+  "stock": 11
+ },
+ "285": {
+  "name": "Fruttis Buble pop",
+  "price": 25000,
+  "stock": 12
+ },
+ "286": {
+  "name": "Furuttis 5% Miks",
+  "price": 8000,
+  "stock": 24
+ },
+ "287": {
+  "name": "Fruttis 8% gilos",
+  "price": 11000,
+  "stock": 20
+ },
+ "288": {
+  "name": "Fruttis 5％ Kulubnika",
+  "price": 23000,
+  "stock": 12
+ },
+ "289": {
+  "name": "Makaron Рассия Mix kg",
+  "price": 13000,
+  "stock": 146.466
+ },
+ "290": {
+  "name": "Ermugurt Mango 100gr",
+  "price": 17000,
+  "stock": 6
+ },
+ "291": {
+  "name": "Нежный yogurt klubnika",
+  "price": 7000,
+  "stock": 18
+ },
+ "292": {
+  "name": "Campina, нежный малина",
+  "price": 7000,
+  "stock": 14
+ },
+ "293": {
+  "name": "Fruttis Break 165gr",
+  "price": 25000,
+  "stock": 12
+ },
+ "294": {
+  "name": "Campina, нежный клубника",
+  "price": 20000,
+  "stock": 12
+ },
+ "295": {
+  "name": "Ehrmann grand 260gr",
+  "price": 17000,
+  "stock": 12
+ },
+ "296": {
+  "name": "Alpenland Yogurt 95gr",
+  "price": 7000,
+  "stock": 22
+ },
+ "297": {
+  "name": "YJF Zaverim 250gr",
+  "price": 10000,
+  "stock": 29
+ },
+ "298": {
+  "name": "YJF Qulupnay Bolichka 300gr",
+  "price": 10000,
+  "stock": 95
+ },
+ "299": {
+  "name": "ROSSIYA SHOKOLAD 75GR",
+  "price": 15000,
+  "stock": 4
+ },
+ "300": {
+  "name": "Nestle CHocolatte 15gr",
+  "price": 15000,
+  "stock": 22
+ },
+ "301": {
+  "name": "Nestle Malina 15gr",
+  "price": 15000,
+  "stock": 14
+ },
+ "302": {
+  "name": "Nestle Bitter 15gr",
+  "price": 15000,
+  "stock": 15
+ },
+ "303": {
+  "name": "Nestle drak 15gr",
+  "price": 24000,
+  "stock": 15
+ },
+ "304": {
+  "name": "Nestle 15gr",
+  "price": 15000,
+  "stock": 103
+ },
+ "305": {
+  "name": "Guruch Avangard kg",
+  "price": 13000,
+  "stock": 55
+ },
+ "306": {
+  "name": "Guruch Alanga kg",
+  "price": 16000,
+  "stock": 37.952
+ },
+ "307": {
+  "name": "Guruch 07 kg",
+  "price": 13000,
+  "stock": 53.98
+ },
+ "308": {
+  "name": "Kit Kat 33gr",
+  "price": 24000,
+  "stock": 44
+ },
+ "309": {
+  "name": "Nuts 50gr",
+  "price": 8000,
+  "stock": 30
+ },
+ "310": {
+  "name": "Kit Kat 32gr",
+  "price": 14000,
+  "stock": 24
+ },
+ "311": {
+  "name": "Kit Kat 40gr",
+  "price": 10000,
+  "stock": 33
+ },
+ "312": {
+  "name": "Kit Kat 45gr",
+  "price": 10000,
+  "stock": 23
+ },
+ "313": {
+  "name": "Mavis karovka",
+  "price": 14000,
+  "stock": 19
+ },
+ "314": {
+  "name": "Mavis Karovka Pachkali 300gr",
+  "price": 13000,
+  "stock": 19
+ },
+ "315": {
+  "name": "Mavis Yubleniy Pachkali",
+  "price": 14000,
+  "stock": 18
+ },
+ "316": {
+  "name": "Mavis Tvorijniy Pachkali 390gr",
+  "price": 14000,
+  "stock": 16
+ },
+ "317": {
+  "name": "Mavis Pechenye Saxarnoe",
+  "price": 14000,
+  "stock": 17
+ },
+ "318": {
+  "name": "Mavis Fasofka Toplenka Kakao 400gr",
+  "price": 14000,
+  "stock": 17
+ },
+ "319": {
+  "name": "Mavis Toplenka Kakao 325gr",
+  "price": 13000,
+  "stock": 8
+ },
+ "320": {
+  "name": "Mavis We GOLD kakao 185gr",
+  "price": 8000,
+  "stock": 12
+ },
+ "321": {
+  "name": "Mavis We GOLD 185gr",
+  "price": 8000,
+  "stock": 14
+ },
+ "322": {
+  "name": "Mavis Yubileyniy 270gr",
+  "price": 13000,
+  "stock": 14
+ },
+ "323": {
+  "name": "Mavis Tvorojniy 325gr",
+  "price": 13000,
+  "stock": 9
+ },
+ "324": {
+  "name": "Mavis Korovka 270gr",
+  "price": 10000,
+  "stock": 9
+ },
+ "325": {
+  "name": "Topleonka 325gr",
+  "price": 13000,
+  "stock": 9
+ },
+ "326": {
+  "name": "Milka Plitka 90g",
+  "price": 18000,
+  "stock": 541
+ },
+ "327": {
+  "name": "Coca cola 0.33",
+  "price": 15000,
+  "stock": 23
+ },
+ "328": {
+  "name": "Coca cola  Germaniya 0.33l",
+  "price": 15000,
+  "stock": 24
+ },
+ "329": {
+  "name": "Fnta can 0.45",
+  "price": 10000,
+  "stock": 23
+ },
+ "330": {
+  "name": "Fanta Anor 0.45",
+  "price": 10000,
+  "stock": 11
+ },
+ "331": {
+  "name": "Coca Cola 0.45",
+  "price": 10000,
+  "stock": 19
+ },
+ "332": {
+  "name": "Sprite 0.45",
+  "price": 10000,
+  "stock": 11
+ },
+ "333": {
+  "name": "Fuse tea 0.45",
+  "price": 10000,
+  "stock": 11
+ },
+ "334": {
+  "name": "Fanta 0.5",
+  "price": 7000,
+  "stock": 71
+ },
+ "335": {
+  "name": "coca cola 1.5",
+  "price": 15000,
+  "stock": 178
+ },
+ "336": {
+  "name": "coca cola 2.0L",
+  "price": 18000,
+  "stock": 222
+ },
+ "337": {
+  "name": "Fanta 1.0",
+  "price": 11000,
+  "stock": 249
+ },
+ "338": {
+  "name": "CHortoq Shisha 0.5L",
+  "price": 12000,
+  "stock": 44
+ },
+ "339": {
+  "name": "Flavis can 0.45",
+  "price": 10000,
+  "stock": 42
+ },
+ "340": {
+  "name": "Maxito can 0.45",
+  "price": 12000,
+  "stock": 87
+ },
+ "341": {
+  "name": "Pepsi can SAUDIA",
+  "price": 12000,
+  "stock": 22
+ },
+ "342": {
+  "name": "MIrinda SAUDIA 0.33ml",
+  "price": 12000,
+  "stock": 14
+ },
+ "343": {
+  "name": "Lipton 0.5",
+  "price": 7000,
+  "stock": 36
+ },
+ "344": {
+  "name": "Lipton 1.0",
+  "price": 11000,
+  "stock": 10
+ },
+ "345": {
+  "name": "Pepsi 0.5L",
+  "price": 7000,
+  "stock": 81
+ },
+ "346": {
+  "name": "Pesi pet 1.0",
+  "price": 11000,
+  "stock": 19
+ },
+ "347": {
+  "name": "pepsi 1.75l",
+  "price": 15000,
+  "stock": 28
+ },
+ "348": {
+  "name": "Pepsi 2.0l",
+  "price": 18000,
+  "stock": 24
+ },
+ "349": {
+  "name": "Noxot Eron kg",
+  "price": 27000,
+  "stock": 30
+ },
+ "350": {
+  "name": "Peshenok kg",
+  "price": 13000,
+  "stock": 25
+ },
+ "351": {
+  "name": "Manniy krupa kg",
+  "price": 12000,
+  "stock": 22.074
+ },
+ "352": {
+  "name": "Guruch kamolino kg",
+  "price": 15000,
+  "stock": 48.002
+ },
+ "353": {
+  "name": "Makaron Burama kg",
+  "price": 12000,
+  "stock": 0
+ },
+ "354": {
+  "name": "Makaron Sipiral kg",
+  "price": 12000,
+  "stock": 0
+ },
+ "355": {
+  "name": "Makaron Sapojok",
+  "price": 12000,
+  "stock": 0
+ },
+ "356": {
+  "name": "Makaron Katta Roshki kg",
+  "price": 12000,
+  "stock": 0
+ },
+ "357": {
+  "name": "Makaron Roshki kg",
+  "price": 12000,
+  "stock": 0
+ },
+ "358": {
+  "name": "Makaron Regidron kg",
+  "price": 12000,
+  "stock": 0
+ },
+ "359": {
+  "name": "Makaron pero kg",
+  "price": 12000,
+  "stock": 0
+ },
+ "360": {
+  "name": "Makaron Kesma kg",
+  "price": 12000,
+  "stock": 0
+ },
+ "361": {
+  "name": "Loviya kg",
+  "price": 15000,
+  "stock": 23.998
+ },
+ "362": {
+  "name": "Mosh kg",
+  "price": 21000,
+  "stock": 21.95
+ },
+ "363": {
+  "name": "Noxat kg",
+  "price": 15000,
+  "stock": 25
+ },
+ "364": {
+  "name": "Gerkules Ofsyanka kg",
+  "price": 12000,
+  "stock": 19
+ },
+ "365": {
+  "name": "Garox Kg",
+  "price": 10000,
+  "stock": 48.998
+ },
+ "366": {
+  "name": "Perlovka kgz kg",
+  "price": 8000,
+  "stock": 47.95
+ },
+ "367": {
+  "name": "Grechka Rassiya kg",
+  "price": 10000,
+  "stock": 89.982
+ },
+ "368": {
+  "name": "Ketler Kurasan Sugushenka",
+  "price": 3000,
+  "stock": 67
+ },
+ "369": {
+  "name": "Deya Enso kg",
+  "price": 55000,
+  "stock": 66.766
+ },
+ "370": {
+  "name": "Proline 4.25kg",
+  "price": 70000,
+  "stock": 8
+ },
+ "371": {
+  "name": "Justin 75g",
+  "price": 5000,
+  "stock": 131
+ },
+ "372": {
+  "name": "Happy Child ququruz",
+  "price": 3000,
+  "stock": 59
+ },
+ "373": {
+  "name": "Karopkali Ququruz",
+  "price": 10000,
+  "stock": 42
+ },
+ "374": {
+  "name": "Po'm-Pik",
+  "price": 3000,
+  "stock": 47
+ },
+ "375": {
+  "name": "VOY DOD OYINCHOQ",
+  "price": 3000,
+  "stock": 14
+ },
+ "376": {
+  "name": "KUKURUZ 250g",
+  "price": 8000,
+  "stock": 42
+ },
+ "377": {
+  "name": "SADAF Tvarog",
+  "price": 19000,
+  "stock": 1
+ },
+ "378": {
+  "name": "SADAF Qaymoq 45% 180g",
+  "price": 15000,
+  "stock": 4
+ },
+ "379": {
+  "name": "SADAF Smetana20% 450g",
+  "price": 14000,
+  "stock": 1
+ },
+ "380": {
+  "name": "SADAF Ayron 1L",
+  "price": 20000,
+  "stock": 14
+ },
+ "381": {
+  "name": "SADAF Qatiq 4% 1L",
+  "price": 17000,
+  "stock": 1
+ },
+ "382": {
+  "name": "Gazzak Keshu pista 30g",
+  "price": 12000,
+  "stock": 29
+ },
+ "383": {
+  "name": "Gazzak 90g",
+  "price": 10000,
+  "stock": 32
+ },
+ "384": {
+  "name": "Gazzak 180g",
+  "price": 21000,
+  "stock": 17
+ },
+ "385": {
+  "name": "DEYA APACCHI 200g",
+  "price": 12000,
+  "stock": 10
+ },
+ "386": {
+  "name": "DEYA KREKER 180g",
+  "price": 7000,
+  "stock": 10
+ },
+ "387": {
+  "name": "ROSHEN VAFLI MIX 216g",
+  "price": 17000,
+  "stock": 239
+ },
+ "388": {
+  "name": "Frima 200gr",
+  "price": 11000,
+  "stock": 20
+ },
+ "389": {
+  "name": "Frima 500gr",
+  "price": 23000,
+  "stock": 33
+ },
+ "390": {
+  "name": "Rollton Mix 400gr",
+  "price": 12000,
+  "stock": 193
+ },
+ "391": {
+  "name": "Rollton Mix 4oogr",
+  "price": 14000,
+  "stock": 14
+ },
+ "392": {
+  "name": "ARIEL 6 kg",
+  "price": 195000,
+  "stock": 2
+ },
+ "393": {
+  "name": "0lesiya 5L",
+  "price": 110000,
+  "stock": 10
+ },
+ "394": {
+  "name": "Adolph 785g",
+  "price": 85000,
+  "stock": 9
+ },
+ "395": {
+  "name": "GRASS Clean 600ml",
+  "price": 23000,
+  "stock": 9
+ },
+ "396": {
+  "name": "KERASYS 8ml",
+  "price": 5000,
+  "stock": 129
+ },
+ "397": {
+  "name": "Kinder JOY 20G",
+  "price": 20000,
+  "stock": 15
+ },
+ "398": {
+  "name": "TIC TAC MIX",
+  "price": 10000,
+  "stock": 32
+ },
+ "399": {
+  "name": "Rocher T3x16",
+  "price": 29000,
+  "stock": 13
+ },
+ "400": {
+  "name": "Rafaello 150g",
+  "price": 67000,
+  "stock": 4
+ },
+ "401": {
+  "name": "FERRERO Collection 172,2g",
+  "price": 173000,
+  "stock": 2
+ },
+ "402": {
+  "name": "Rocher shokoladniy konfet 300g",
+  "price": 185000,
+  "stock": 2
+ },
+ "403": {
+  "name": "Rocher shokoladniy konfet 200g",
+  "price": 92000,
+  "stock": 0
+ },
+ "404": {
+  "name": "MeyFu 250gr",
+  "price": 5000,
+  "stock": 24
+ },
+ "405": {
+  "name": "MeyFu 900gr",
+  "price": 16000,
+  "stock": 10
+ },
+ "406": {
+  "name": "Rafaello 40g",
+  "price": 19000,
+  "stock": 15
+ },
+ "407": {
+  "name": "MeyFu 1.8kg",
+  "price": 30000,
+  "stock": 4
+ },
+ "408": {
+  "name": "Rocher Plitka 90g Mix",
+  "price": 50000,
+  "stock": 7
+ },
+ "409": {
+  "name": "Kinder Maxi 21g",
+  "price": 6000,
+  "stock": 26
+ },
+ "410": {
+  "name": "Kinder Chocalate 100g",
+  "price": 30000,
+  "stock": 10
+ },
+ "411": {
+  "name": "Kinder Chokalate 50g",
+  "price": 15000,
+  "stock": 17
+ },
+ "412": {
+  "name": "Kinder Surprise MIX",
+  "price": 18000,
+  "stock": 30
+ },
+ "413": {
+  "name": "RAFFAELLO 90G",
+  "price": 49000,
+  "stock": 2
+ },
+ "414": {
+  "name": "PECHENIYE PEPPY 300G",
+  "price": 16000,
+  "stock": 13
+ },
+ "415": {
+  "name": "VAFLINEYE PLOMBIR 400G",
+  "price": 24000,
+  "stock": 19
+ },
+ "416": {
+  "name": "CHOCO BREAK 300G MIX",
+  "price": 30000,
+  "stock": 14
+ },
+ "417": {
+  "name": "KAROVKA VAFLI 300G",
+  "price": 18000,
+  "stock": 18
+ },
+ "418": {
+  "name": "KAROVKA MIX 375G",
+  "price": 20000,
+  "stock": 33
+ },
+ "419": {
+  "name": "Karovka Shokoladnoy Nachinkoy 150gr",
+  "price": 12000,
+  "stock": 20
+ },
+ "420": {
+  "name": "Karovka Toplenoe Moloko 150gr",
+  "price": 12000,
+  "stock": 21
+ },
+ "421": {
+  "name": "Merci 112gr",
+  "price": 50000,
+  "stock": 16
+ },
+ "422": {
+  "name": "Merci 112gr",
+  "price": 45000,
+  "stock": 34
+ },
+ "423": {
+  "name": "Merci 675gr",
+  "price": 325000,
+  "stock": 1
+ },
+ "424": {
+  "name": "Merci 400gr",
+  "price": 185000,
+  "stock": 2
+ },
+ "425": {
+  "name": "Merci 250gr",
+  "price": 90000,
+  "stock": 8
+ },
+ "426": {
+  "name": "RAFFAELLO Bantik 200G",
+  "price": 122000,
+  "stock": 2
+ },
+ "427": {
+  "name": "Rafaello Bantik 100gr",
+  "price": 71000,
+  "stock": 2
+ },
+ "428": {
+  "name": "RAFFAELLO 70G",
+  "price": 41000,
+  "stock": 2
+ },
+ "429": {
+  "name": "PRINSESSA NURI QORA CHOY 25 BAGS",
+  "price": 8000,
+  "stock": 3
+ },
+ "430": {
+  "name": "TESS 25 BAGS",
+  "price": 16000,
+  "stock": 18
+ },
+ "431": {
+  "name": "TESS MIX 100G",
+  "price": 18000,
+  "stock": 84
+ },
+ "432": {
+  "name": "DOBROE Tvorog 250g",
+  "price": 26000,
+  "stock": 2
+ },
+ "433": {
+  "name": "Suzma dobroe tuzli 400g",
+  "price": 27000,
+  "stock": 1
+ },
+ "434": {
+  "name": "Suzma dobroe 5% 300g",
+  "price": 25000,
+  "stock": 2
+ },
+ "435": {
+  "name": "DOBROE Bio Kefir 2,5% 500g mix",
+  "price": 13000,
+  "stock": 1
+ },
+ "436": {
+  "name": "DOBROE Slivki 35% 180g",
+  "price": 21000,
+  "stock": 1
+ },
+ "437": {
+  "name": "DOBROE Smetna 350g",
+  "price": 22000,
+  "stock": 1
+ },
+ "438": {
+  "name": "DOBROE Grek yogurt mix 180g",
+  "price": 15000,
+  "stock": 12
+ },
+ "439": {
+  "name": "DOBROE Gretskiy yogurt 125g Mix",
+  "price": 18000,
+  "stock": 9
+ },
+ "440": {
+  "name": "DOBROE Yogurt 260g Mix",
+  "price": 15000,
+  "stock": 7
+ },
+ "441": {
+  "name": "DOBROE Yogurt 900g MIX",
+  "price": 38000,
+  "stock": 2
+ },
+ "442": {
+  "name": "QURT AYRON 2,5%200ML",
+  "price": 9000,
+  "stock": 20
+ },
+ "443": {
+  "name": "Dobroe Slivochnoe 82,5%",
+  "price": 40000,
+  "stock": 10
+ },
+ "444": {
+  "name": "Dobroe Labne 200gr",
+  "price": 30000,
+  "stock": 2
+ },
+ "445": {
+  "name": "Dobroe ayron Qurt 900g 2,5%",
+  "price": 23000,
+  "stock": 2
+ },
+ "446": {
+  "name": "Dobroe ayron 500g",
+  "price": 15000,
+  "stock": 3
+ },
+ "447": {
+  "name": "Dobre Ayron 1% 1000gr",
+  "price": 25000,
+  "stock": 2
+ },
+ "448": {
+  "name": "Limon fresh 1L",
+  "price": 20000,
+  "stock": 23
+ },
+ "449": {
+  "name": "Ice tea Limon fresh 0,45L",
+  "price": 14000,
+  "stock": 12
+ },
+ "450": {
+  "name": "Bavi Super 60g",
+  "price": 7000,
+  "stock": 79
+ },
+ "451": {
+  "name": "Bavi Super 350g",
+  "price": 32000,
+  "stock": 27
+ },
+ "452": {
+  "name": "Bavi Super 1.1kg",
+  "price": 86000,
+  "stock": 8
+ },
+ "453": {
+  "name": "Bavi Gel 2,5L",
+  "price": 188000,
+  "stock": 4
+ },
+ "454": {
+  "name": "HOSAL kids 200ml",
+  "price": 4000,
+  "stock": 217
+ },
+ "455": {
+  "name": "Choco Pie orginal 4sht",
+  "price": 13000,
+  "stock": 16
+ },
+ "456": {
+  "name": "Choco Pie orginal 6sht",
+  "price": 17000,
+  "stock": 16
+ },
+ "457": {
+  "name": "Choco Pie orginal 12sht",
+  "price": 34000,
+  "stock": 8
+ },
+ "458": {
+  "name": "Choco Pie 12 sht",
+  "price": 40000,
+  "stock": 14
+ },
+ "459": {
+  "name": "CHOCO pie 6 sht",
+  "price": 20000,
+  "stock": 24
+ },
+ "460": {
+  "name": "Choko boy yougurt va qulbnay 45g",
+  "price": 8000,
+  "stock": 18
+ },
+ "461": {
+  "name": "GRIZZLY 70g",
+  "price": 11000,
+  "stock": 6
+ },
+ "462": {
+  "name": "GRIZZLY 100G",
+  "price": 15000,
+  "stock": 11
+ },
+ "463": {
+  "name": "IZI CORN 80g",
+  "price": 10000,
+  "stock": 10
+ },
+ "464": {
+  "name": "GRENKI WOW 180G",
+  "price": 13000,
+  "stock": 13
+ },
+ "465": {
+  "name": "GRENKI 100G",
+  "price": 7000,
+  "stock": 29
+ },
+ "466": {
+  "name": "Flint 60g",
+  "price": 5000,
+  "stock": 54
+ },
+ "467": {
+  "name": "Palmolive dush gel 250ml",
+  "price": 49000,
+  "stock": 1
+ },
+ "468": {
+  "name": "Palmolive dush gel 250ml",
+  "price": 49000,
+  "stock": 1
+ },
+ "469": {
+  "name": "Palmolive massaj 250ml",
+  "price": 49000,
+  "stock": 0
+ },
+ "470": {
+  "name": "Palmolive dush uchun gel anor 250ml",
+  "price": 41000,
+  "stock": 2
+ },
+ "471": {
+  "name": "Palmalive dush uchun gel 250ml",
+  "price": 41000,
+  "stock": 2
+ },
+ "472": {
+  "name": "PROTEX Fresh 300ml",
+  "price": 47000,
+  "stock": 4
+ },
+ "473": {
+  "name": "Palmolive limon 300ml",
+  "price": 47000,
+  "stock": 3
+ },
+ "474": {
+  "name": "Palmolive zaytun 300ml",
+  "price": 47000,
+  "stock": 3
+ },
+ "475": {
+  "name": "Palmolive ramashka 4+1",
+  "price": 30000,
+  "stock": 3
+ },
+ "476": {
+  "name": "Palvalive bodring 4+1",
+  "price": 30000,
+  "stock": 2
+ },
+ "477": {
+  "name": "Palmalive Roza 4+1",
+  "price": 30000,
+  "stock": 3
+ },
+ "478": {
+  "name": "Palmolive zaytun 4+1",
+  "price": 30000,
+  "stock": 1
+ },
+ "479": {
+  "name": "Palmolive qazgoqqa qarshi 450ml",
+  "price": 36000,
+  "stock": 4
+ },
+ "480": {
+  "name": "Palmolive limon 450ml",
+  "price": 36000,
+  "stock": 4
+ },
+ "481": {
+  "name": "Palmolive asal 450ml",
+  "price": 36000,
+  "stock": 4
+ },
+ "482": {
+  "name": "Palmolive bodom 450ml",
+  "price": 36000,
+  "stock": 4
+ },
+ "483": {
+  "name": "Palmolive anor 450ml",
+  "price": 36000,
+  "stock": 4
+ },
+ "484": {
+  "name": "Palmolive kakos 450ml",
+  "price": 36000,
+  "stock": 4
+ },
+ "485": {
+  "name": "Palmolive Zaytun moyin 450ml",
+  "price": 36000,
+  "stock": 4
+ },
+ "486": {
+  "name": "Colgate Plax Tea Lemon 500ml",
+  "price": 60000,
+  "stock": 2
+ },
+ "487": {
+  "name": "Colgate Triple Action 500ml",
+  "price": 60000,
+  "stock": 2
+ },
+ "488": {
+  "name": "Colgate Total 250ml",
+  "price": 44000,
+  "stock": 3
+ },
+ "489": {
+  "name": "Colgate Plax 250 ml",
+  "price": 42000,
+  "stock": 3
+ },
+ "490": {
+  "name": "Colgate children 2+",
+  "price": 10000,
+  "stock": 10
+ },
+ "491": {
+  "name": "Colgate childrens 5+",
+  "price": 20000,
+  "stock": 12
+ },
+ "492": {
+  "name": "Colgate chotka Extra Density",
+  "price": 25000,
+  "stock": 12
+ },
+ "493": {
+  "name": "Colgate Extra Density",
+  "price": 25000,
+  "stock": 12
+ },
+ "494": {
+  "name": "Colgate chotka Colors 4PK",
+  "price": 43000,
+  "stock": 6
+ },
+ "495": {
+  "name": "Colgate chotka 1+1",
+  "price": 20000,
+  "stock": 5
+ },
+ "496": {
+  "name": "Colgate chotka Troynoe destiviy",
+  "price": 20000,
+  "stock": 10
+ },
+ "497": {
+  "name": "Colgate chotka zabota o desnax",
+  "price": 16000,
+  "stock": 10
+ },
+ "498": {
+  "name": "Colgate chotka zig zag 2+1",
+  "price": 31000,
+  "stock": 6
+ },
+ "499": {
+  "name": "Colgate chotka zig zag",
+  "price": 14000,
+  "stock": 8
+ },
+ "500": {
+  "name": "Colgate chotka Udalenie",
+  "price": 10000,
+  "stock": 12
+ },
+ "501": {
+  "name": "Colgate chotka 2+1",
+  "price": 16000,
+  "stock": 5
+ },
+ "502": {
+  "name": "Colgate Klassik chotka",
+  "price": 8000,
+  "stock": 22
+ },
+ "503": {
+  "name": "Colgate for children 55ml",
+  "price": 20000,
+  "stock": 8
+ },
+ "504": {
+  "name": "OPTIC white 75ml",
+  "price": 57000,
+  "stock": 6
+ },
+ "505": {
+  "name": "Colgate Sensative pro-relief",
+  "price": 57000,
+  "stock": 6
+ },
+ "506": {
+  "name": "Colgate Sensative Pro-Relief 75ml",
+  "price": 57000,
+  "stock": 5
+ },
+ "507": {
+  "name": "Colgate Total-Decay 75ml",
+  "price": 34000,
+  "stock": 12
+ },
+ "508": {
+  "name": "Colgate Total Pro 75ml",
+  "price": 34000,
+  "stock": 12
+ },
+ "509": {
+  "name": "Colgate Total 125ml",
+  "price": 43000,
+  "stock": 12
+ },
+ "510": {
+  "name": "Colgate total 125ml",
+  "price": 43000,
+  "stock": 12
+ },
+ "511": {
+  "name": "Colgate Total 100ml",
+  "price": 34000,
+  "stock": 9
+ },
+ "512": {
+  "name": "Colgate Fresh Confidence Green 100ml",
+  "price": 34000,
+  "stock": 12
+ },
+ "513": {
+  "name": "Colgate Fresh Confidence Blue 100ml",
+  "price": 34000,
+  "stock": 11
+ },
+ "514": {
+  "name": "Colgate Max Whie Purple 75ml",
+  "price": 24000,
+  "stock": 12
+ },
+ "515": {
+  "name": "Colgate Max White 150ml",
+  "price": 43000,
+  "stock": 12
+ },
+ "516": {
+  "name": "Colgate Max White 100ml",
+  "price": 34000,
+  "stock": 12
+ },
+ "517": {
+  "name": "Colgate Max White 50ml",
+  "price": 22000,
+  "stock": 10
+ },
+ "518": {
+  "name": "Colgate Herbel Healthy Gums 150ml",
+  "price": 24000,
+  "stock": 12
+ },
+ "519": {
+  "name": "Colgate Herbel Healthy Gums 100ml",
+  "price": 18000,
+  "stock": 7
+ },
+ "520": {
+  "name": "Colgate Gentle Whitining 100ml",
+  "price": 18000,
+  "stock": 12
+ },
+ "521": {
+  "name": "Colgate Gentle Whitining 50ml",
+  "price": 10000,
+  "stock": 12
+ },
+ "522": {
+  "name": "Colgate Whitining Propolis 100ml",
+  "price": 18000,
+  "stock": 11
+ },
+ "523": {
+  "name": "Colgate Triple Action 150ml",
+  "price": 24000,
+  "stock": 12
+ },
+ "524": {
+  "name": "Colgate Triple Action 125ml",
+  "price": 18000,
+  "stock": 13
+ },
+ "525": {
+  "name": "Colgate Triple Action 50ml",
+  "price": 10000,
+  "stock": 9
+ },
+ "526": {
+  "name": "Colgate Fresh Mint 150ml",
+  "price": 24000,
+  "stock": 11
+ },
+ "527": {
+  "name": "Colgate Fresh Mint 100ml",
+  "price": 18000,
+  "stock": 11
+ },
+ "528": {
+  "name": "Colgate Fresh Mint 50ml",
+  "price": 10000,
+  "stock": 11
+ },
+ "529": {
+  "name": "Toxtaniyoz Sardelka Pachka",
+  "price": 60000,
+  "stock": 3
+ },
+ "530": {
+  "name": "XRUS TEAM 95g",
+  "price": 9000,
+  "stock": 9
+ },
+ "531": {
+  "name": "XRUS TEAM 60g",
+  "price": 6000,
+  "stock": 15
+ },
+ "532": {
+  "name": "XRUS TEAM 27g",
+  "price": 3500,
+  "stock": 36
+ },
+ "533": {
+  "name": "LAYS 140g",
+  "price": 28000,
+  "stock": 34
+ },
+ "534": {
+  "name": "LAYS 105g",
+  "price": 22000,
+  "stock": 17
+ },
+ "535": {
+  "name": "LAYS 225g",
+  "price": 40000,
+  "stock": 25
+ },
+ "536": {
+  "name": "LAYS  20g",
+  "price": 6000,
+  "stock": 23
+ },
+ "537": {
+  "name": "LAYS 50g",
+  "price": 11000,
+  "stock": 24
+ },
+ "538": {
+  "name": "LAYS 70g",
+  "price": 15000,
+  "stock": 33
+ },
+ "539": {
+  "name": "Dinay Multifrukt 0.5l",
+  "price": 8000,
+  "stock": 6
+ },
+ "540": {
+  "name": "Elma Dispanser 180pcs",
+  "price": 15000,
+  "stock": 15
+ },
+ "541": {
+  "name": "Bouynty 55gr",
+  "price": 12000,
+  "stock": 84
+ },
+ "542": {
+  "name": "Mars 50gr",
+  "price": 10000,
+  "stock": 140
+ },
+ "543": {
+  "name": "Borges Classic Olive Oil 500ml",
+  "price": 125000,
+  "stock": 6
+ },
+ "544": {
+  "name": "Borges Classic Olive Oil 250ml",
+  "price": 65000,
+  "stock": 6
+ },
+ "545": {
+  "name": "Twix 46gr",
+  "price": 10000,
+  "stock": 113
+ },
+ "546": {
+  "name": "Borges Extra Virgin 250ml",
+  "price": 72000,
+  "stock": 6
+ },
+ "547": {
+  "name": "Borges Extra Virgin 500ml",
+  "price": 130000,
+  "stock": 6
+ },
+ "548": {
+  "name": "MilkyWay 26gr",
+  "price": 6000,
+  "stock": 129
+ },
+ "549": {
+  "name": "Skittles 95gr",
+  "price": 18000,
+  "stock": 32
+ },
+ "550": {
+  "name": "Skittles 38gr",
+  "price": 7000,
+  "stock": 153
+ },
+ "551": {
+  "name": "mms 45gr",
+  "price": 11000,
+  "stock": 173
+ },
+ "552": {
+  "name": "Makfa un 5kg",
+  "price": 75000,
+  "stock": 8
+ },
+ "553": {
+  "name": "Blitz Biskvit 40gr",
+  "price": 3000,
+  "stock": 40
+ },
+ "554": {
+  "name": "Sahara",
+  "price": 2000,
+  "stock": 47
+ },
+ "555": {
+  "name": "Choco Chips 80gr",
+  "price": 14000,
+  "stock": 12
+ },
+ "556": {
+  "name": "Nastenka Pishechka",
+  "price": 20000,
+  "stock": 12
+ },
+ "557": {
+  "name": "Makfa un 2kg",
+  "price": 30000,
+  "stock": 12
+ },
+ "558": {
+  "name": "Sladok Zavariki 350gr",
+  "price": 24000,
+  "stock": 15
+ },
+ "559": {
+  "name": "Makfa un 1kg",
+  "price": 15000,
+  "stock": 19
+ },
+ "560": {
+  "name": "Weller Candy Bar 220gr",
+  "price": 20000,
+  "stock": 24
+ },
+ "561": {
+  "name": "MAKFA 400GR",
+  "price": 13000,
+  "stock": 44
+ },
+ "562": {
+  "name": "Strobar x2",
+  "price": 8000,
+  "stock": 34
+ },
+ "563": {
+  "name": "Strobar 40gr",
+  "price": 6000,
+  "stock": 33
+ },
+ "564": {
+  "name": "Chocotella 190gr",
+  "price": 25000,
+  "stock": 13
+ },
+ "565": {
+  "name": "MAKFA PAUTINKA 400GR",
+  "price": 18000,
+  "stock": 9
+ },
+ "566": {
+  "name": "MAKFA GNEZDA 450GR",
+  "price": 22000,
+  "stock": 5
+ },
+ "567": {
+  "name": "Russol Tuz 600gr",
+  "price": 6000,
+  "stock": 46
+ },
+ "568": {
+  "name": "MAKFA ZVEZDOCHKI 250GR",
+  "price": 10000,
+  "stock": 5
+ },
+ "569": {
+  "name": "Eco Salt Ximalay Tuz",
+  "price": 16000,
+  "stock": 32
+ },
+ "570": {
+  "name": "MAKFA MAKFIKI 250GR",
+  "price": 10000,
+  "stock": 4
+ },
+ "571": {
+  "name": "Extra Tuz Morskaya 1000gr",
+  "price": 15000,
+  "stock": 11
+ },
+ "572": {
+  "name": "Tibet Tuz 650gr",
+  "price": 15000,
+  "stock": 23
+ },
+ "573": {
+  "name": "MAKFA PAUTINKA 400GR",
+  "price": 13000,
+  "stock": 10
+ },
+ "574": {
+  "name": "Billur Osh Tuzi 800gr",
+  "price": 2000,
+  "stock": 97
+ },
+ "575": {
+  "name": "Ozbegim Osh Tuzi 1kg",
+  "price": 3000,
+  "stock": 97
+ },
+ "576": {
+  "name": "Baraka Osh Tuzi 1kg",
+  "price": 4000,
+  "stock": 125
+ },
+ "577": {
+  "name": "Marjon Osh Tuzi 1kg",
+  "price": 4000,
+  "stock": 125
+ },
+ "578": {
+  "name": "Mexmon Osh Tuzi 1kg",
+  "price": 5000,
+  "stock": 300
+ },
+ "579": {
+  "name": "Samara Osh Tuzi 1kg",
+  "price": 2000,
+  "stock": 72
+ },
+ "580": {
+  "name": "Makfa spagetti 585gr",
+  "price": 15000,
+  "stock": 5
+ },
+ "581": {
+  "name": "Orzu Osh Tuzi 1kg",
+  "price": 5000,
+  "stock": 119
+ },
+ "582": {
+  "name": "Orzu Osh Tuzi 3kg",
+  "price": 12000,
+  "stock": 46
+ },
+ "583": {
+  "name": "TWIX XTRA",
+  "price": 13000,
+  "stock": 75
+ },
+ "584": {
+  "name": "Original Mel Sariq",
+  "price": 2000,
+  "stock": 40
+ },
+ "585": {
+  "name": "Verita 3pcs",
+  "price": 10000,
+  "stock": 17
+ },
+ "586": {
+  "name": "SNICKERS SUPER",
+  "price": 12000,
+  "stock": 233
+ },
+ "587": {
+  "name": "Skoch Rangli Dona",
+  "price": 25000,
+  "stock": 35
+ },
+ "588": {
+  "name": "Wan Boa Tish Tozalagich Dona",
+  "price": 1000,
+  "stock": 210
+ },
+ "589": {
+  "name": "Orbit XXL",
+  "price": 6000,
+  "stock": 57
+ },
+ "590": {
+  "name": "Orbit 13.6gr Mix",
+  "price": 5000,
+  "stock": 1102
+ },
+ "591": {
+  "name": "Toothpick Tish Tozalagich 650pcs",
+  "price": 15000,
+  "stock": 9
+ },
+ "592": {
+  "name": "Tish Tozalagich Plastic Idish",
+  "price": 10000,
+  "stock": 19
+ },
+ "593": {
+  "name": "Zubachiski 1000pcs",
+  "price": 18000,
+  "stock": 12
+ },
+ "594": {
+  "name": "Vazelin Kok Qopqoq",
+  "price": 10000,
+  "stock": 20
+ },
+ "595": {
+  "name": "Dental Floss Tish Tozalagich",
+  "price": 10000,
+  "stock": 46
+ },
+ "596": {
+  "name": "Soni Batarya Katta Dona",
+  "price": 2000,
+  "stock": 120
+ },
+ "597": {
+  "name": "Soni Batarya Dona",
+  "price": 1000,
+  "stock": 120
+ },
+ "598": {
+  "name": "Snickers, батончик 50,5г",
+  "price": 9000,
+  "stock": 562
+ },
+ "599": {
+  "name": "Super Kley",
+  "price": 5000,
+  "stock": 20
+ },
+ "600": {
+  "name": "Dorco TG-2 Plus",
+  "price": 8000,
+  "stock": 19
+ },
+ "601": {
+  "name": "Dorco 5pcs",
+  "price": 7000,
+  "stock": 23
+ },
+ "602": {
+  "name": "Dixlofos Hacker 300ml",
+  "price": 32000,
+  "stock": 9
+ },
+ "603": {
+  "name": "Dixlafos Varan",
+  "price": 19000,
+  "stock": 10
+ },
+ "604": {
+  "name": "Garnet Gupka 7pcs",
+  "price": 11000,
+  "stock": 8
+ },
+ "605": {
+  "name": "Mouse Glue",
+  "price": 5000,
+  "stock": 19
+ },
+ "606": {
+  "name": "Super Suba Pasha Kley",
+  "price": 1000,
+  "stock": 290
+ },
+ "607": {
+  "name": "Mosquitall Spiral",
+  "price": 7000,
+  "stock": 10
+ },
+ "608": {
+  "name": "Raptor Aparat",
+  "price": 6000,
+  "stock": 9
+ },
+ "609": {
+  "name": "Raptor Suvi",
+  "price": 6000,
+  "stock": 18
+ },
+ "610": {
+  "name": "VGR FEN V-414 413",
+  "price": 245000,
+  "stock": 2
+ },
+ "611": {
+  "name": "FEN 9900 N-1",
+  "price": 135000,
+  "stock": 2
+ },
+ "612": {
+  "name": "FEN 6602 XAR XIL",
+  "price": 75000,
+  "stock": 4
+ },
+ "613": {
+  "name": "MASHINKA 071 VGR",
+  "price": 90000,
+  "stock": 1
+ },
+ "614": {
+  "name": "VGR MASHINKA 055 030",
+  "price": 95000,
+  "stock": 1
+ },
+ "615": {
+  "name": "Mechta Xozyayki Qopqoq Dona",
+  "price": 500,
+  "stock": 924
+ },
+ "616": {
+  "name": "VGR MASHIN V-901",
+  "price": 190000,
+  "stock": 1
+ },
+ "617": {
+  "name": "Talamus Qopqoq Dona",
+  "price": 500,
+  "stock": 800
+ },
+ "618": {
+  "name": "VGR V-987",
+  "price": 162000,
+  "stock": 1
+ },
+ "619": {
+  "name": "MASHINKA VGR V-933",
+  "price": 115000,
+  "stock": 0
+ },
+ "620": {
+  "name": "Malina Murabbo 0.5l",
+  "price": 23000,
+  "stock": 22
+ },
+ "621": {
+  "name": "VGR V-998 MASHINKA",
+  "price": 135000,
+  "stock": 1
+ },
+ "622": {
+  "name": "Malina Murabbo 1l",
+  "price": 55000,
+  "stock": 11
+ },
+ "623": {
+  "name": "Jeep Gugurt Donalik",
+  "price": 200,
+  "stock": 1789
+ },
+ "624": {
+  "name": "ELKO MASHINKA",
+  "price": 101000,
+  "stock": 1
+ },
+ "625": {
+  "name": "Naturella Makka 340gr",
+  "price": 9000,
+  "stock": 90
+ },
+ "626": {
+  "name": "Naturella Garox 400gr",
+  "price": 8000,
+  "stock": 86
+ },
+ "627": {
+  "name": "VGR DEPTIAL APARAT V-700",
+  "price": 185000,
+  "stock": 1
+ },
+ "628": {
+  "name": "VGR V-728 DEPTIAL APARAT",
+  "price": 155000,
+  "stock": 1
+ },
+ "629": {
+  "name": "Moskovskiy Shampinon 430gr",
+  "price": 20000,
+  "stock": 40
+ },
+ "630": {
+  "name": "VGR V-726 DEPTIAL APARAD",
+  "price": 115000,
+  "stock": 1
+ },
+ "631": {
+  "name": "Moskovskiy Shampinon 1l",
+  "price": 40000,
+  "stock": 30
+ },
+ "632": {
+  "name": "Bonduella Garox-Makka",
+  "price": 23000,
+  "stock": 91
+ },
+ "633": {
+  "name": "VGR V-731 DEEPIL APARAT",
+  "price": 150000,
+  "stock": 1
+ },
+ "634": {
+  "name": "Kaija Shprot 190gr",
+  "price": 36000,
+  "stock": 9
+ },
+ "635": {
+  "name": "Osiyo Tushonka Premium 425gr",
+  "price": 74000,
+  "stock": 20
+ },
+ "636": {
+  "name": "Dazmol By-2115",
+  "price": 110000,
+  "stock": 2
+ },
+ "637": {
+  "name": "Zareche Moloko 1300gr",
+  "price": 40000,
+  "stock": 9
+ },
+ "638": {
+  "name": "Zareche Moloko 900gr",
+  "price": 28000,
+  "stock": 12
+ },
+ "639": {
+  "name": "Zareche Moloko 450gr",
+  "price": 15000,
+  "stock": 9
+ },
+ "640": {
+  "name": "VGR V-498 Fen Taroq",
+  "price": 250000,
+  "stock": 1
+ },
+ "641": {
+  "name": "Osiyo Tushonka Premium 325gr",
+  "price": 52000,
+  "stock": 78
+ },
+ "642": {
+  "name": "Tvit Aparat GM 209",
+  "price": 90000,
+  "stock": 1
+ },
+ "643": {
+  "name": "Osiyo Tushonka 325gr",
+  "price": 48000,
+  "stock": 57
+ },
+ "644": {
+  "name": "Kaija Kilka 170gr",
+  "price": 30000,
+  "stock": 40
+ },
+ "645": {
+  "name": "Kaija Kilka 240gr",
+  "price": 28000,
+  "stock": 94
+ },
+ "646": {
+  "name": "Tvit Aparat 1789",
+  "price": 55000,
+  "stock": 1
+ },
+ "647": {
+  "name": "Taroq Salon Fashion",
+  "price": 13000,
+  "stock": 10
+ },
+ "648": {
+  "name": "Redberry Taroq",
+  "price": 10000,
+  "stock": 9
+ },
+ "649": {
+  "name": "Taroq Aimesi 4pcs",
+  "price": 16000,
+  "stock": 9
+ },
+ "650": {
+  "name": "Dove Sovun 90gr",
+  "price": 13000,
+  "stock": 39
+ },
+ "651": {
+  "name": "Dove Sovun 135gr",
+  "price": 16000,
+  "stock": 53
+ },
+ "652": {
+  "name": "ChakChak Kichik",
+  "price": 16000,
+  "stock": 19
+ },
+ "653": {
+  "name": "Ibon Fruity kg",
+  "price": 73000,
+  "stock": 5
+ },
+ "654": {
+  "name": "Karavan Orex 90gr",
+  "price": 8000,
+  "stock": 16
+ },
+ "655": {
+  "name": "Krakra Tuxum",
+  "price": 50000,
+  "stock": 12
+ },
+ "656": {
+  "name": "Nutella 200gr",
+  "price": 50000,
+  "stock": 5
+ },
+ "657": {
+  "name": "Nutella 750gr",
+  "price": 138000,
+  "stock": 4
+ },
+ "658": {
+  "name": "Nutella 350gr",
+  "price": 62000,
+  "stock": 6
+ },
+ "659": {
+  "name": "Raxat Kazakistan Shokolad 100gr",
+  "price": 30000,
+  "stock": 37
+ },
+ "660": {
+  "name": "Pringles Chips 40gr",
+  "price": 14000,
+  "stock": 34
+ },
+ "661": {
+  "name": "Pringles Chips 165gr",
+  "price": 35000,
+  "stock": 37
+ },
+ "662": {
+  "name": "Italia Arabica Cofe 100gr",
+  "price": 44000,
+  "stock": 0
+ },
+ "663": {
+  "name": "Senator Cofe 85gr",
+  "price": 43000,
+  "stock": 12
+ },
+ "664": {
+  "name": "Tibio Arabica Exclusive 47.5gr",
+  "price": 42000,
+  "stock": 6
+ },
+ "665": {
+  "name": "Tibio Arabica Exclusive 95gr",
+  "price": 72000,
+  "stock": 6
+ },
+ "666": {
+  "name": "Egoiste Cofe Platinum 100gr",
+  "price": 202000,
+  "stock": 2
+ },
+ "667": {
+  "name": "Egoiste Cofe Special 100gr",
+  "price": 182000,
+  "stock": 2
+ },
+ "668": {
+  "name": "Egoiste Cofe Truffle 95gr",
+  "price": 182000,
+  "stock": 2
+ },
+ "669": {
+  "name": "Kinza Cola-Sitrus 250ml",
+  "price": 13000,
+  "stock": 27
+ },
+ "670": {
+  "name": "LaimonFresh 0.5l",
+  "price": 12000,
+  "stock": 44
+ },
+ "671": {
+  "name": "Size Up 350ml",
+  "price": 27000,
+  "stock": 19
+ },
+ "672": {
+  "name": "LaimonFresh 0.45l",
+  "price": 14000,
+  "stock": 33
+ },
+ "673": {
+  "name": "Pepsi Dubai 0.33l",
+  "price": 13000,
+  "stock": 47
+ },
+ "674": {
+  "name": "Mirinda Dubai 0.33ml",
+  "price": 14000,
+  "stock": 41
+ },
+ "675": {
+  "name": "Fanta 0.33l Germaniya",
+  "price": 15000,
+  "stock": 23
+ },
+ "676": {
+  "name": "Cola 0.33l Germaniya",
+  "price": 15000,
+  "stock": 90
+ },
+ "677": {
+  "name": "Monster Oq-Qora 500ml",
+  "price": 31000,
+  "stock": 48
+ },
+ "678": {
+  "name": "Delfin 1.8kg",
+  "price": 22000,
+  "stock": 9
+ },
+ "679": {
+  "name": "Delfin 1.2kg",
+  "price": 15000,
+  "stock": 16
+ },
+ "680": {
+  "name": "Delfin 900gr",
+  "price": 10000,
+  "stock": 15
+ },
+ "681": {
+  "name": "Delfin 250gr",
+  "price": 4000,
+  "stock": 38
+ },
+ "682": {
+  "name": "Aprel Yashil 1.8kg",
+  "price": 30000,
+  "stock": 10
+ },
+ "683": {
+  "name": "Aprel Yashil 900gr",
+  "price": 16000,
+  "stock": 17
+ },
+ "684": {
+  "name": "Aprel Yashil 250gr",
+  "price": 5000,
+  "stock": 45
+ },
+ "685": {
+  "name": "Haribo All Mix",
+  "price": 12500,
+  "stock": 707
+ },
+ "686": {
+  "name": "Alpen Gold Super Nuts 120gr",
+  "price": 26000,
+  "stock": 45
+ },
+ "687": {
+  "name": "Max Fun 130gr",
+  "price": 30000,
+  "stock": 72
+ },
+ "688": {
+  "name": "Barni 150gr",
+  "price": 22000,
+  "stock": 9
+ },
+ "689": {
+  "name": "Bic Flex 2 pachka",
+  "price": 56000,
+  "stock": 4
+ },
+ "690": {
+  "name": "Bic Flex 5 Hybrid",
+  "price": 133000,
+  "stock": 2
+ },
+ "691": {
+  "name": "Bic Flex 3 Hybrid 1+4",
+  "price": 125000,
+  "stock": 2
+ },
+ "692": {
+  "name": "Bic Flex 3 Pachka",
+  "price": 48000,
+  "stock": 5
+ },
+ "693": {
+  "name": "Bic Twin Lady Pachka",
+  "price": 26000,
+  "stock": 10
+ },
+ "694": {
+  "name": "Bic Pure Lady Pachka",
+  "price": 30000,
+  "stock": 10
+ },
+ "695": {
+  "name": "Bic Pure Lady",
+  "price": 8000,
+  "stock": 94
+ },
+ "696": {
+  "name": "Bic Flex5 Hybrid",
+  "price": 195000,
+  "stock": 2
+ },
+ "697": {
+  "name": "Bic Flex3 Hybrid",
+  "price": 100000,
+  "stock": 2
+ },
+ "698": {
+  "name": "Bic Flex 3",
+  "price": 16000,
+  "stock": 39
+ },
+ "699": {
+  "name": "Bic Twin Lady",
+  "price": 5000,
+  "stock": 96
+ },
+ "700": {
+  "name": "Bic Action 3",
+  "price": 8000,
+  "stock": 96
+ },
+ "701": {
+  "name": "Bic Metal Pachka",
+  "price": 23000,
+  "stock": 14
+ },
+ "702": {
+  "name": "Bic Miss Soleil 4dona",
+  "price": 65000,
+  "stock": 5
+ },
+ "703": {
+  "name": "Bic Action 3",
+  "price": 30000,
+  "stock": 10
+ },
+ "704": {
+  "name": "Bic Metal",
+  "price": 5000,
+  "stock": 142
+ },
+ "705": {
+  "name": "Bic Miss Soleil",
+  "price": 16000,
+  "stock": 40
+ },
+ "706": {
+  "name": "Sharqona Tog Qurti 55gr",
+  "price": 10000,
+  "stock": 48
+ },
+ "707": {
+  "name": "Sharqona Sir Palochka 70gr",
+  "price": 8000,
+  "stock": 46
+ },
+ "708": {
+  "name": "Shakar 365 5kg",
+  "price": 65000,
+  "stock": 85
+ },
+ "709": {
+  "name": "Shakar 365 2kg",
+  "price": 26000,
+  "stock": 357
+ },
+ "710": {
+  "name": "Choy Tess 100pachka",
+  "price": 66000,
+  "stock": 9
+ },
+ "711": {
+  "name": "Choy Tess Summer Time 20pachka",
+  "price": 20000,
+  "stock": 59
+ },
+ "712": {
+  "name": "Coffee Jockey Favorit 95gr",
+  "price": 35000,
+  "stock": 12
+ },
+ "713": {
+  "name": "Coffee Jardin Gold 75gr",
+  "price": 42000,
+  "stock": 6
+ },
+ "714": {
+  "name": "Coffee Jardin Colombia 75gr",
+  "price": 39000,
+  "stock": 6
+ },
+ "715": {
+  "name": "Coffee Jardin 95gr",
+  "price": 49000,
+  "stock": 22
+ },
+ "716": {
+  "name": "Felix 75gr",
+  "price": 6000,
+  "stock": 429
+ },
+ "717": {
+  "name": "Nescafe 3in1 14,5gr",
+  "price": 3000,
+  "stock": 116
+ },
+ "718": {
+  "name": "Nescafe Classic Jar 47,5gr",
+  "price": 28000,
+  "stock": 12
+ },
+ "719": {
+  "name": "Nescafe Gold 190gr",
+  "price": 110000,
+  "stock": 6
+ },
+ "720": {
+  "name": "Nescafe Gold Aroma 85gr",
+  "price": 64000,
+  "stock": 6
+ },
+ "721": {
+  "name": "Nescafe Gold 95gr",
+  "price": 64000,
+  "stock": 10
+ },
+ "722": {
+  "name": "Nescafe Gold 47,5gr",
+  "price": 35000,
+  "stock": 8
+ },
+ "723": {
+  "name": "Nescafe Gold 75gr",
+  "price": 51000,
+  "stock": 8
+ },
+ "724": {
+  "name": "Nescafe Gold 40gr",
+  "price": 28000,
+  "stock": 11
+ },
+ "725": {
+  "name": "Nescafe Gold 190gr",
+  "price": 110000,
+  "stock": 8
+ },
+ "726": {
+  "name": "Nescafe Gold 130gr",
+  "price": 75000,
+  "stock": 8
+ },
+ "727": {
+  "name": "Oxipring Miracle Wipes 50dona",
+  "price": 55000,
+  "stock": 8
+ },
+ "728": {
+  "name": "Kopum Capsula",
+  "price": 137000,
+  "stock": 4
+ },
+ "729": {
+  "name": "Kopum Plus Capsule",
+  "price": 150000,
+  "stock": 4
+ },
+ "730": {
+  "name": "Kopum Plus 9kg",
+  "price": 390000,
+  "stock": 2
+ },
+ "731": {
+  "name": "Kopum Plus 4,5kg",
+  "price": 200000,
+  "stock": 4
+ },
+ "732": {
+  "name": "Kopum Plus 3kg",
+  "price": 137000,
+  "stock": 5
+ },
+ "733": {
+  "name": "Kopum Plus 1,5kg",
+  "price": 73000,
+  "stock": 6
+ },
+ "734": {
+  "name": "Kopum Detergent 2,8L",
+  "price": 136000,
+  "stock": 2
+ },
+ "735": {
+  "name": "Kopum Plus Detegent 1,45L",
+  "price": 85000,
+  "stock": 2
+ },
+ "736": {
+  "name": "Chistoya Liniya Shampoo 250ml",
+  "price": 19000,
+  "stock": 28
+ },
+ "737": {
+  "name": "Chistaya Liniya Gel dlya dusha",
+  "price": 25000,
+  "stock": 17
+ },
+ "738": {
+  "name": "Chistaya Liniya Shanpoo 1000ml",
+  "price": 53000,
+  "stock": 33
+ },
+ "739": {
+  "name": "Chistaya Liniya Shampoo 400ml",
+  "price": 26000,
+  "stock": 71
+ },
+ "740": {
+  "name": "Lesnoy Balzam Tish Pasta 75ml",
+  "price": 12000,
+  "stock": 82
+ },
+ "741": {
+  "name": "Lesnoy Balzam Tish Pasta 75ml",
+  "price": 18000,
+  "stock": 24
+ },
+ "742": {
+  "name": "Maxwell House 3in1 Donasi",
+  "price": 3000,
+  "stock": 150
+ },
+ "743": {
+  "name": "Coffee Jacobs Hot/Ice 21gr",
+  "price": 7000,
+  "stock": 30
+ },
+ "744": {
+  "name": "Coffee Jacobs Monarch 3in1 Mix",
+  "price": 2500,
+  "stock": 71
+ },
+ "745": {
+  "name": "Coffee Jacobs Monarch Mini Mix",
+  "price": 3000,
+  "stock": 210
+ },
+ "746": {
+  "name": "Coffee Jacobs Monarch Barista 1,8gr",
+  "price": 4000,
+  "stock": 30
+ },
+ "747": {
+  "name": "Coffee Jacobs Monarch Signature 1,8gr",
+  "price": 3000,
+  "stock": 30
+ },
+ "748": {
+  "name": "Coffee Carte Noire Original 1,8gr",
+  "price": 4000,
+  "stock": 30
+ },
+ "749": {
+  "name": "Carte Noire White 17,4gr",
+  "price": 6000,
+  "stock": 20
+ },
+ "750": {
+  "name": "Coffee Jacobs Monarch 75gr",
+  "price": 51000,
+  "stock": 5
+ },
+ "751": {
+  "name": "Coffee Jacobs Monarch 190gr",
+  "price": 105000,
+  "stock": 6
+ },
+ "752": {
+  "name": "Coffee Jacobs Monarch 130gr",
+  "price": 73000,
+  "stock": 9
+ },
+ "753": {
+  "name": "Coffee Jacobs Monarch 220gr",
+  "price": 135000,
+  "stock": 6
+ },
+ "754": {
+  "name": "Coffee Jacobs Monarch 500gr",
+  "price": 235000,
+  "stock": 2
+ },
+ "755": {
+  "name": "Coffee Jacobs Monarch 300gr+100gr",
+  "price": 191000,
+  "stock": 2
+ },
+ "756": {
+  "name": "Coffee Jacobs Monarch 75gr",
+  "price": 51000,
+  "stock": 15
+ },
+ "757": {
+  "name": "Coffee Jacobs Monarch  33gr",
+  "price": 28000,
+  "stock": 18
+ },
+ "758": {
+  "name": "Coffee Jacobs Monarch 50gr",
+  "price": 39000,
+  "stock": 18
+ },
+ "759": {
+  "name": "Coffee Jacobs Monarch 190gr",
+  "price": 105000,
+  "stock": 6
+ },
+ "760": {
+  "name": "Coffee Jacobs Monarch 95gr",
+  "price": 62000,
+  "stock": 12
+ },
+ "761": {
+  "name": "Coffee Jacobs Monarch 47,5gr",
+  "price": 32000,
+  "stock": 12
+ },
+ "762": {
+  "name": "Carte Noire 75gr",
+  "price": 85000,
+  "stock": 6
+ },
+ "763": {
+  "name": "Milka Choc&Choc 150gr",
+  "price": 39000,
+  "stock": 10
+ },
+ "764": {
+  "name": "Milka Choco Mix",
+  "price": 25000,
+  "stock": 53
+ },
+ "765": {
+  "name": "Mentos Gum 100gr",
+  "price": 42000,
+  "stock": 5
+ },
+ "766": {
+  "name": "Mentos Gum 54gr",
+  "price": 26000,
+  "stock": 27
+ },
+ "767": {
+  "name": "Mentos Gum 30gr",
+  "price": 16000,
+  "stock": 29
+ },
+ "768": {
+  "name": "Mentos Gum",
+  "price": 5000,
+  "stock": 161
+ },
+ "769": {
+  "name": "Chupa Chups Kisli Fans 150gr",
+  "price": 20000,
+  "stock": 5
+ },
+ "770": {
+  "name": "Chupa Chups Kisli Fans 100gr",
+  "price": 14000,
+  "stock": 10
+ },
+ "771": {
+  "name": "Chupa Chups Kisli Fans 70gr",
+  "price": 11000,
+  "stock": 11
+ },
+ "772": {
+  "name": "Chupa Chups Kisli Rolls",
+  "price": 20000,
+  "stock": 10
+ },
+ "773": {
+  "name": "Chupa Chups Kisli Rolls 100gr",
+  "price": 14000,
+  "stock": 10
+ },
+ "774": {
+  "name": "Chupa Chups Kisli Rolls 70gr",
+  "price": 11000,
+  "stock": 13
+ },
+ "775": {
+  "name": "Chupa Chups Kisli 120gr",
+  "price": 18000,
+  "stock": 29
+ },
+ "776": {
+  "name": "Buldak Mix Original 140gr",
+  "price": 19000,
+  "stock": 7
+ },
+ "777": {
+  "name": "Chistin Stok 500gr",
+  "price": 26000,
+  "stock": 13
+ },
+ "778": {
+  "name": "Chistin Universal 750gr",
+  "price": 29000,
+  "stock": 14
+ },
+ "779": {
+  "name": "Chistin Sanitariy 750ml",
+  "price": 32000,
+  "stock": 14
+ },
+ "780": {
+  "name": "Chistin 3v1 750ml",
+  "price": 29000,
+  "stock": 11
+ },
+ "781": {
+  "name": "Bella Classic Nova Maxi 10dona",
+  "price": 25000,
+  "stock": 48
+ },
+ "782": {
+  "name": "Bella Panty Soft Tilia 60dona",
+  "price": 39000,
+  "stock": 24
+ },
+ "783": {
+  "name": "Bella Happy Baby",
+  "price": 12000,
+  "stock": 28
+ },
+ "784": {
+  "name": "Dixlafos Neo 140ml",
+  "price": 12000,
+  "stock": 48
+ },
+ "785": {
+  "name": "Roshen Konafetto 140gr",
+  "price": 13000,
+  "stock": 59
+ },
+ "786": {
+  "name": "Lovita Soft Cream Cookies 127gr",
+  "price": 12000,
+  "stock": 16
+ },
+ "787": {
+  "name": "Roshen Lovita Cake Cookies 168gr",
+  "price": 13000,
+  "stock": 46
+ },
+ "788": {
+  "name": "Roshen Lovita 152gr",
+  "price": 13000,
+  "stock": 59
+ },
+ "789": {
+  "name": "Roshen Lovita Classic Cookies 150gr",
+  "price": 12000,
+  "stock": 39
+ },
+ "790": {
+  "name": "Roshen MultiCake 180gr",
+  "price": 12000,
+  "stock": 53
+ },
+ "791": {
+  "name": "Roshen Butter Cookies 140gr",
+  "price": 16000,
+  "stock": 24
+ },
+ "792": {
+  "name": "Roshen Lollipops Gum",
+  "price": 2000,
+  "stock": 415
+ },
+ "793": {
+  "name": "Roshen 2 Crack 190gr",
+  "price": 15000,
+  "stock": 95
+ },
+ "794": {
+  "name": "Rollton 100gr",
+  "price": 9000,
+  "stock": 141
+ },
+ "795": {
+  "name": "Big Bon 95gr",
+  "price": 12000,
+  "stock": 208
+ },
+ "796": {
+  "name": "Big Bon 75gr Mix",
+  "price": 5000,
+  "stock": 1473
+ },
+ "797": {
+  "name": "Rollton Sho'rva 90gr Mix",
+  "price": 5000,
+  "stock": 191
+ },
+ "798": {
+  "name": "Rollton 70gr",
+  "price": 5000,
+  "stock": 127
+ },
+ "799": {
+  "name": "Rollton 90gr Kimchi",
+  "price": 5000,
+  "stock": 72
+ },
+ "800": {
+  "name": "Rollton 90gr",
+  "price": 8000,
+  "stock": 240
+ },
+ "801": {
+  "name": "Rollton 90gr",
+  "price": 9000,
+  "stock": 168
+ },
+ "802": {
+  "name": "Rollton 85gr Mix",
+  "price": 2500,
+  "stock": 400
+ },
+ "803": {
+  "name": "Rollton 60gr Mol go'sht",
+  "price": 3000,
+  "stock": 210
+ },
+ "804": {
+  "name": "Rollton 60gr Tovuq",
+  "price": 3000,
+  "stock": 200
+ },
+ "805": {
+  "name": "Keshyu Tuzli 40 gr",
+  "price": 18000,
+  "stock": 25
+ },
+ "806": {
+  "name": "Ermak Keshu 40gr",
+  "price": 18000,
+  "stock": 28
+ },
+ "807": {
+  "name": "Ermak Pista Magzi 55gr",
+  "price": 10000,
+  "stock": 12
+ },
+ "808": {
+  "name": "Ermak Mix Shirin 45gr",
+  "price": 18000,
+  "stock": 14
+ },
+ "809": {
+  "name": "Ermak Pista 30gr",
+  "price": 16000,
+  "stock": 14
+ },
+ "810": {
+  "name": "Ermak Bodom 40gr",
+  "price": 15000,
+  "stock": 13
+ },
+ "811": {
+  "name": "Ermak Araxis 50gr",
+  "price": 6000,
+  "stock": 23
+ },
+ "812": {
+  "name": "Ermak Qurt 150gr",
+  "price": 32000,
+  "stock": 17
+ },
+ "813": {
+  "name": "Ermak Qurt 60gr",
+  "price": 15000,
+  "stock": 28
+ },
+ "814": {
+  "name": "Ermak Qurt 47gr",
+  "price": 13000,
+  "stock": 66
+ },
+ "815": {
+  "name": "Ermak Qurt 30gr",
+  "price": 8000,
+  "stock": 46
+ },
+ "816": {
+  "name": "Ermak 200gr",
+  "price": 26000,
+  "stock": 33
+ },
+ "817": {
+  "name": "Ermak 160gr",
+  "price": 19000,
+  "stock": 31
+ },
+ "818": {
+  "name": "Ermak 100gr",
+  "price": 14000,
+  "stock": 14
+ },
+ "819": {
+  "name": "Kotex Ultra Normar Single Pad",
+  "price": 24000,
+  "stock": 4
+ },
+ "820": {
+  "name": "Kotex Ultra Cotton Single 10x16",
+  "price": 24000,
+  "stock": 5
+ },
+ "821": {
+  "name": "Kotex Ultra Super Single 8x10",
+  "price": 24000,
+  "stock": 5
+ },
+ "822": {
+  "name": "Kotex Ultra Young Normal 8x16",
+  "price": 24000,
+  "stock": 5
+ },
+ "823": {
+  "name": "Kotex Ultra Super 8x10",
+  "price": 24000,
+  "stock": 5
+ },
+ "824": {
+  "name": "Kotex Ultra Extra Protect 5x16",
+  "price": 24000,
+  "stock": 5
+ },
+ "825": {
+  "name": "Kotex Young Night 6x24",
+  "price": 24000,
+  "stock": 5
+ },
+ "826": {
+  "name": "Kotex Tampun Super 16x12",
+  "price": 47000,
+  "stock": 5
+ },
+ "827": {
+  "name": "Kotex Tampun Mini 16x12",
+  "price": 47000,
+  "stock": 5
+ },
+ "828": {
+  "name": "Kotex Tampun Super 8x24",
+  "price": 27000,
+  "stock": 10
+ },
+ "829": {
+  "name": "Kotex Young 16x16",
+  "price": 13500,
+  "stock": 5
+ },
+ "830": {
+  "name": "Kotex Bio Care 40x10",
+  "price": 47000,
+  "stock": 5
+ },
+ "831": {
+  "name": "Kotex Bio Care 20x12",
+  "price": 25000,
+  "stock": 5
+ },
+ "832": {
+  "name": "Kotex Natural Normal 20x16",
+  "price": 23000,
+  "stock": 5
+ },
+ "833": {
+  "name": "Kotex Natural Normal 40x16",
+  "price": 42000,
+  "stock": 5
+ },
+ "834": {
+  "name": "Kotex Ultra Deo 20x16",
+  "price": 13500,
+  "stock": 5
+ },
+ "835": {
+  "name": "Kotex Ultra Deo 56x16",
+  "price": 34000,
+  "stock": 5
+ },
+ "836": {
+  "name": "Kotex Super Slim 56x16",
+  "price": 34000,
+  "stock": 5
+ },
+ "837": {
+  "name": "Kotex Normal Deo 56x16",
+  "price": 34000,
+  "stock": 5
+ },
+ "838": {
+  "name": "Kotex Normal 56x16",
+  "price": 34000,
+  "stock": 5
+ },
+ "839": {
+  "name": "Huggies Dry xPad Jumbo 5*42",
+  "price": 102000,
+  "stock": 2
+ },
+ "840": {
+  "name": "Huggies Dry xPad Jumbo 4*50",
+  "price": 102000,
+  "stock": 2
+ },
+ "841": {
+  "name": "Huggies Dry xPad Jumbo 3*58",
+  "price": 102000,
+  "stock": 2
+ },
+ "842": {
+  "name": "Huggies Dry eXpert Jumbo 6*28",
+  "price": 86000,
+  "stock": 2
+ },
+ "843": {
+  "name": "Huggies Dry eXpert Jumbo 5*36",
+  "price": 86000,
+  "stock": 1
+ },
+ "844": {
+  "name": "Huggies Dry eXpert Jumbo 4*40",
+  "price": 86000,
+  "stock": 2
+ },
+ "845": {
+  "name": "Huggies Dry eXpert Jumbo 3*46",
+  "price": 86000,
+  "stock": 2
+ },
+ "846": {
+  "name": "Huggies Classic Jumbo 5*42",
+  "price": 80000,
+  "stock": 47
+ },
+ "847": {
+  "name": "Huggies Classic Jumbo 4*50",
+  "price": 80000,
+  "stock": 50
+ },
+ "848": {
+  "name": "Huggies Classic Jumbo 3*58",
+  "price": 80000,
+  "stock": 16
+ },
+ "849": {
+  "name": "Huggies Classic Mega 4*68",
+  "price": 108000,
+  "stock": 2
+ },
+ "850": {
+  "name": "Huggies Classic Mega 3*78",
+  "price": 108000,
+  "stock": 2
+ },
+ "851": {
+  "name": "Huggies Classic Small 5*11",
+  "price": 27000,
+  "stock": 5
+ },
+ "852": {
+  "name": "Huggies Classic Small 4*14",
+  "price": 27000,
+  "stock": 5
+ },
+ "853": {
+  "name": "Huggies Classic Small 3*16",
+  "price": 27000,
+  "stock": 3
+ },
+ "854": {
+  "name": "Huggies Pants Mix",
+  "price": 78000,
+  "stock": 6
+ },
+ "855": {
+  "name": "Huggies Ultra Comfort Giga Girl 5*64",
+  "price": 230000,
+  "stock": 2
+ },
+ "856": {
+  "name": "Huggies Ultra Comfort Giga Girl 4*80",
+  "price": 230000,
+  "stock": 1
+ },
+ "857": {
+  "name": "Huggies Ultra Comfort Giga Girl 3*94",
+  "price": 230000,
+  "stock": 2
+ },
+ "858": {
+  "name": "Huggies Ultra Comfort Giga Boy 5*64",
+  "price": 230000,
+  "stock": 2
+ },
+ "859": {
+  "name": "Huggies Ultra Comfort Giga Boy 4*80",
+  "price": 230000,
+  "stock": 2
+ },
+ "860": {
+  "name": "Huggies Ultra Comfort Giga Boy 3*94",
+  "price": 230000,
+  "stock": 2
+ },
+ "861": {
+  "name": "Huggies Ultra Comfort Giga Boy 4*68",
+  "price": 230000,
+  "stock": 2
+ },
+ "862": {
+  "name": "Huggies Ultra Comfort Girl 5*15",
+  "price": 62000,
+  "stock": 2
+ },
+ "863": {
+  "name": "Huggies Ultra Comfort Girl 4*19",
+  "price": 62000,
+  "stock": 1
+ },
+ "864": {
+  "name": "Huggies Ultra Comfort Girl 3*21",
+  "price": 62000,
+  "stock": 2
+ },
+ "865": {
+  "name": "Huggies Ultra Comfort Boy 5*15",
+  "price": 62000,
+  "stock": 1
+ },
+ "866": {
+  "name": "Huggies Ultra Comfort Boy 4*19",
+  "price": 62000,
+  "stock": 1
+ },
+ "867": {
+  "name": "Huggies Ultra Comfort Boy 3*21",
+  "price": 62000,
+  "stock": 2
+ },
+ "868": {
+  "name": "Huggies Elite Soft Pants 5*21",
+  "price": 105000,
+  "stock": 1
+ },
+ "869": {
+  "name": "Huggies Elite Soft Pants 4*21",
+  "price": 105000,
+  "stock": 1
+ },
+ "870": {
+  "name": "SALOMATLIK OIL 2L",
+  "price": 40000,
+  "stock": 1
+ },
+ "871": {
+  "name": "Huggies Elite Soft Jumbo 4*33",
+  "price": 159000,
+  "stock": 2
+ },
+ "872": {
+  "name": "Huggies Elite Soft  Jumbo 3*40",
+  "price": 159000,
+  "stock": 2
+ },
+ "873": {
+  "name": "DONSKAYA YANTAR 2L",
+  "price": 47000,
+  "stock": 3
+ },
+ "874": {
+  "name": "Huggies Elite Soft 2 Jumbo 2*50",
+  "price": 129000,
+  "stock": 1
+ },
+ "875": {
+  "name": "Huggies Elite Soft 1 Jumbo 1*50",
+  "price": 129000,
+  "stock": 1
+ },
+ "876": {
+  "name": "Huggies Elit Soft 5*17",
+  "price": 88000,
+  "stock": 2
+ },
+ "877": {
+  "name": "Avedov",
+  "price": 58137,
+  "stock": 4
+ },
+ "878": {
+  "name": "Huggies Elit Soft 2*19",
+  "price": 88000,
+  "stock": 2
+ },
+ "879": {
+  "name": "Huggies Elit Soft 3*21",
+  "price": 88000,
+  "stock": 2
+ },
+ "880": {
+  "name": "Huggies Elit Soft 2*20",
+  "price": 55000,
+  "stock": 2
+ },
+ "881": {
+  "name": "Huggies Elit Soft 1*20",
+  "price": 55000,
+  "stock": 1
+ },
+ "882": {
+  "name": "SIFAT Paxta yog'i 5L",
+  "price": 100000,
+  "stock": 5
+ },
+ "883": {
+  "name": "OLEYNA MASLA PODSELNECHNOE 2L",
+  "price": 58000,
+  "stock": 6
+ },
+ "884": {
+  "name": "ARAY 5L",
+  "price": 100000,
+  "stock": 7
+ },
+ "885": {
+  "name": "Alina 5l Pista Yog",
+  "price": 100000,
+  "stock": 3
+ },
+ "886": {
+  "name": "YARKO 5L (QIZIL QOPQOQ)",
+  "price": 120000,
+  "stock": 3
+ },
+ "887": {
+  "name": "YARKO PODSOLNECHNOE MASLA 2L",
+  "price": 48000,
+  "stock": 6
+ },
+ "888": {
+  "name": "YARKO PISTA YOG'I 1L",
+  "price": 24000,
+  "stock": 23
+ },
+ "889": {
+  "name": "Oleyna Pista Yog'i 1L",
+  "price": 28000,
+  "stock": 26
+ },
+ "890": {
+  "name": "Makfa Pautinka 400g",
+  "price": 14000,
+  "stock": 9
+ },
+ "891": {
+  "name": "Makfa Spagetti 585g",
+  "price": 14000,
+  "stock": 7
+ },
+ "892": {
+  "name": "Sifat Paxta Yogi 5l",
+  "price": 100000,
+  "stock": 4
+ },
+ "893": {
+  "name": "Amoy Soya 180ml",
+  "price": 6000,
+  "stock": 10
+ },
+ "894": {
+  "name": "Amoy Soya 500ml",
+  "price": 11000,
+  "stock": 6
+ },
+ "895": {
+  "name": "Angel Droj 500gr",
+  "price": 27000,
+  "stock": 10
+ },
+ "896": {
+  "name": "Bakerdream Droj 500gr",
+  "price": 24000,
+  "stock": 9
+ },
+ "897": {
+  "name": "Non Soda 500gr",
+  "price": 8000,
+  "stock": 19
+ },
+ "898": {
+  "name": "Riga Gold Kilka Tomat 240gr",
+  "price": 19000,
+  "stock": 21
+ },
+ "899": {
+  "name": "Riga Gold Shprot Masla 240gr",
+  "price": 39000,
+  "stock": 23
+ },
+ "900": {
+  "name": "Riga Gold Shprot Masla 160gr",
+  "price": 30000,
+  "stock": 36
+ },
+ "901": {
+  "name": "Veranda Jalapeno 720ml",
+  "price": 43000,
+  "stock": 11
+ },
+ "902": {
+  "name": "Riga Gold Kilka Tomatniy 280gr",
+  "price": 28000,
+  "stock": 12
+ },
+ "903": {
+  "name": "Riga Gold Shprot Masla 250gr",
+  "price": 48000,
+  "stock": 12
+ },
+ "904": {
+  "name": "Speszakas Tushonka 525gr",
+  "price": 75000,
+  "stock": 16
+ },
+ "905": {
+  "name": "Oasis Ananas 580ml",
+  "price": 26000,
+  "stock": 11
+ },
+ "906": {
+  "name": "Veranda Ananas 580ml",
+  "price": 27000,
+  "stock": 12
+ },
+ "907": {
+  "name": "Veranda Jalapeno 370ml",
+  "price": 26000,
+  "stock": 10
+ },
+ "908": {
+  "name": "Oasis Zaytun Kok-Qora",
+  "price": 23000,
+  "stock": 12
+ },
+ "909": {
+  "name": "Coopoliva Zaytun Kok Danaksiz",
+  "price": 31000,
+  "stock": 6
+ },
+ "910": {
+  "name": "Coopoliva Zaytun Qora Danaksiz",
+  "price": 29000,
+  "stock": 6
+ },
+ "911": {
+  "name": "Oasis Zaytun Yogi 1l",
+  "price": 84000,
+  "stock": 2
+ },
+ "912": {
+  "name": "Oasis Zaytun Yogi 250ml",
+  "price": 42000,
+  "stock": 6
+ },
+ "913": {
+  "name": "Coopoliva Zaytun Yogi 250ml",
+  "price": 61000,
+  "stock": 6
+ },
+ "914": {
+  "name": "Veranda Zaytun Yogi 250ml",
+  "price": 49000,
+  "stock": 5
+ },
+ "915": {
+  "name": "Veranda Zaytun Yogi 500ml",
+  "price": 82000,
+  "stock": 6
+ },
+ "916": {
+  "name": "Oasis Zaytun Yogi 500ml",
+  "price": 76000,
+  "stock": 6
+ },
+ "917": {
+  "name": "Coopoliva Zaytun Yogi 500ml",
+  "price": 113000,
+  "stock": 6
+ },
+ "918": {
+  "name": "Rexona Stik Women 50ml",
+  "price": 26000,
+  "stock": 20
+ },
+ "919": {
+  "name": "Rexona Stik Men 50ml",
+  "price": 26000,
+  "stock": 19
+ },
+ "920": {
+  "name": "Rexona Desodrant Women 200ml",
+  "price": 29000,
+  "stock": 25
+ },
+ "921": {
+  "name": "Rexona Desodrant Women 150ml",
+  "price": 27000,
+  "stock": 36
+ },
+ "922": {
+  "name": "Rexona Desodrant Men 200ml",
+  "price": 29000,
+  "stock": 23
+ },
+ "923": {
+  "name": "Rexona Desodrant Men 150ml",
+  "price": 27000,
+  "stock": 35
+ },
+ "924": {
+  "name": "Dove Shampun 375ml",
+  "price": 43000,
+  "stock": 63
+ },
+ "925": {
+  "name": "Clear Shapmun Men 580ml",
+  "price": 72000,
+  "stock": 9
+ },
+ "926": {
+  "name": "Clear Shapmun Women 380ml",
+  "price": 41000,
+  "stock": 82
+ },
+ "927": {
+  "name": "Clear Shapmun Men 380ml",
+  "price": 41000,
+  "stock": 160
+ },
+ "928": {
+  "name": "Clear Shapmun Women 180ml",
+  "price": 26000,
+  "stock": 50
+ },
+ "929": {
+  "name": "Clear Shampun Men 180ml",
+  "price": 26000,
+  "stock": 49
+ },
+ "930": {
+  "name": "Ushashtniy Nyanya Sovun 90gr",
+  "price": 11000,
+  "stock": 17
+ },
+ "931": {
+  "name": "Ushashtniy Nyanya Kir Soda 9kg",
+  "price": 310000,
+  "stock": 1
+ },
+ "932": {
+  "name": "Ushashtniy Nyanya Kir Soda 800gr",
+  "price": 33000,
+  "stock": 3
+ },
+ "933": {
+  "name": "Ushashtniy Nyanya Kir Soda 6kg",
+  "price": 218000,
+  "stock": 2
+ },
+ "934": {
+  "name": "Ushashtniy Nyanya Kir Soda 4.5kg",
+  "price": 170000,
+  "stock": 2
+ },
+ "935": {
+  "name": "Ushashtniy Nyanya Kir Soda 400gr",
+  "price": 19000,
+  "stock": 3
+ },
+ "936": {
+  "name": "Ushashtniy Nyanya Kir Soda 2.4kg",
+  "price": 92000,
+  "stock": 3
+ },
+ "937": {
+  "name": "Ushashtniy Nyanya Sovun Xojalik",
+  "price": 18000,
+  "stock": 1
+ },
+ "938": {
+  "name": "Ushashtniy Nyanya Shampun 200ml",
+  "price": 38000,
+  "stock": 6
+ },
+ "939": {
+  "name": "Deonica Desodrant Women 200ml",
+  "price": 27000,
+  "stock": 82
+ },
+ "940": {
+  "name": "Deonica Desodrant Men 200ml",
+  "price": 27000,
+  "stock": 59
+ },
+ "941": {
+  "name": "Moya Prelest Shampun 250ml",
+  "price": 32000,
+  "stock": 11
+ },
+ "942": {
+  "name": "Prelest Lak Soch Uchun 200ml",
+  "price": 35000,
+  "stock": 12
+ },
+ "943": {
+  "name": "Prelest Lak Soch Uchun 160ml",
+  "price": 30000,
+  "stock": 12
+ },
+ "944": {
+  "name": "Mentolis Saqich",
+  "price": 2000,
+  "stock": 473
+ },
+ "945": {
+  "name": "Kango Saqich",
+  "price": 1000,
+  "stock": 868
+ },
+ "946": {
+  "name": "Zizi Saqich",
+  "price": 1000,
+  "stock": 544
+ },
+ "947": {
+  "name": "Nu Pogodi Bumaga",
+  "price": 1500,
+  "stock": 240
+ },
+ "948": {
+  "name": "Pok Aroma Bumaga 6pcs",
+  "price": 18000,
+  "stock": 19
+ },
+ "949": {
+  "name": "Kristall Bumaga 6pcs",
+  "price": 19000,
+  "stock": 28
+ },
+ "950": {
+  "name": "Cafe Creme 45gr",
+  "price": 34000,
+  "stock": 15
+ },
+ "951": {
+  "name": "Senator Coffe 85gr",
+  "price": 48000,
+  "stock": 12
+ },
+ "952": {
+  "name": "Elma Salfetka 100pcs",
+  "price": 5000,
+  "stock": 43
+ },
+ "953": {
+  "name": "Elma Polotensa 2pcs",
+  "price": 13000,
+  "stock": 13
+ },
+ "954": {
+  "name": "Elma Aroma Bumaga 8pcs",
+  "price": 42000,
+  "stock": 12
+ },
+ "955": {
+  "name": "Elma Panda Bumaga 8pcs",
+  "price": 26000,
+  "stock": 28
+ },
+ "956": {
+  "name": "Elma Panda Bumaga 6pcs",
+  "price": 20000,
+  "stock": 45
+ },
+ "957": {
+  "name": "Elma Mini Salfetka 120pcs",
+  "price": 12000,
+  "stock": 20
+ },
+ "958": {
+  "name": "Elma Mini Salfetka 72pcs",
+  "price": 8000,
+  "stock": 31
+ },
+ "959": {
+  "name": "Elma Premium 25pcs",
+  "price": 5000,
+  "stock": 19
+ },
+ "960": {
+  "name": "Elma Lady Nam Salfetka 15pcs",
+  "price": 3000,
+  "stock": 96
+ },
+ "961": {
+  "name": "Elma King Baby 100pcs",
+  "price": 24000,
+  "stock": 15
+ },
+ "962": {
+  "name": "Elma Antibacterial Effect 100pcs",
+  "price": 14000,
+  "stock": 17
+ },
+ "963": {
+  "name": "Elma Antibacterial 100pcs",
+  "price": 14000,
+  "stock": 18
+ },
+ "964": {
+  "name": "Elma Bolalar Nam Salfetka 72pcs",
+  "price": 10000,
+  "stock": 21
+ },
+ "965": {
+  "name": "Elma Bolalar Nam Salfetka 120pcs",
+  "price": 16000,
+  "stock": 12
+ },
+ "966": {
+  "name": "Kerasys Proactive Men 400ml",
+  "price": 70000,
+  "stock": 13
+ },
+ "967": {
+  "name": "Kerasys Shampun Advanced 600ml",
+  "price": 89000,
+  "stock": 4
+ },
+ "968": {
+  "name": "Kerasys Sovun 100gr",
+  "price": 19000,
+  "stock": 30
+ },
+ "969": {
+  "name": "Kerasys Shampun Perfume 600ml",
+  "price": 75000,
+  "stock": 19
+ },
+ "970": {
+  "name": "Kerasys Shampun Oreintal 600ml",
+  "price": 73000,
+  "stock": 4
+ },
+ "971": {
+  "name": "Kerasys Shampon Clinic 600ml",
+  "price": 73000,
+  "stock": 19
+ },
+ "972": {
+  "name": "Pansy Air Fresh Long 10dona",
+  "price": 10000,
+  "stock": 37
+ },
+ "973": {
+  "name": "Kerasys Homme Men 550ml",
+  "price": 73000,
+  "stock": 6
+ },
+ "974": {
+  "name": "Perla Soda 3kg",
+  "price": 88000,
+  "stock": 3
+ },
+ "975": {
+  "name": "Prokladka Oyijon 10dona",
+  "price": 13000,
+  "stock": 13
+ },
+ "976": {
+  "name": "Ariel Kapsula 60dona",
+  "price": 208000,
+  "stock": 4
+ },
+ "977": {
+  "name": "Molfix 6 Mega 80 dona",
+  "price": 240000,
+  "stock": 2
+ },
+ "978": {
+  "name": "Elseve Shampun 700ml",
+  "price": 76000,
+  "stock": 7
+ },
+ "979": {
+  "name": "Elseve Shampun 250ml",
+  "price": 33000,
+  "stock": 40
+ },
+ "980": {
+  "name": "Perla Kunlik 60dona",
+  "price": 30000,
+  "stock": 15
+ },
+ "981": {
+  "name": "Perla Kunlik  20dona",
+  "price": 14500,
+  "stock": 12
+ },
+ "982": {
+  "name": "Perla Classic Comfort Night 3",
+  "price": 17000,
+  "stock": 10
+ },
+ "983": {
+  "name": "Elseve Shampun 400ml",
+  "price": 47000,
+  "stock": 94
+ },
+ "984": {
+  "name": "Perla Classic Comfort Long 2",
+  "price": 15000,
+  "stock": 10
+ },
+ "985": {
+  "name": "Perla Classic Comfort 1",
+  "price": 14000,
+  "stock": 10
+ },
+ "986": {
+  "name": "Romolcha Sovun",
+  "price": 25000,
+  "stock": 22
+ },
+ "987": {
+  "name": "Sovun Setka",
+  "price": 19000,
+  "stock": 7
+ },
+ "988": {
+  "name": "Meva Sovun",
+  "price": 16000,
+  "stock": 23
+ },
+ "989": {
+  "name": "Loris Parfum 120ml",
+  "price": 48000,
+  "stock": 19
+ },
+ "990": {
+  "name": "Perla Air Dry 3",
+  "price": 17000,
+  "stock": 10
+ },
+ "991": {
+  "name": "Perla Air Dry 2",
+  "price": 16000,
+  "stock": 10
+ },
+ "992": {
+  "name": "Sev Suyuq Sovun 500ml",
+  "price": 13000,
+  "stock": 17
+ },
+ "993": {
+  "name": "Perla Air Dry 1",
+  "price": 14000,
+  "stock": 10
+ },
+ "994": {
+  "name": "Sev Suyuq Sovun 450ml",
+  "price": 12000,
+  "stock": 12
+ },
+ "995": {
+  "name": "Eclair Suyuq Sovun 830ml",
+  "price": 18000,
+  "stock": 6
+ },
+ "996": {
+  "name": "Olivia Suyuq Sovun 300ml",
+  "price": 10000,
+  "stock": 18
+ },
+ "997": {
+  "name": "Perla Nam Salfetka 72dona",
+  "price": 10000,
+  "stock": 45
+ },
+ "998": {
+  "name": "Olivia Suyuq Sovun 500ml",
+  "price": 14000,
+  "stock": 13
+ },
+ "999": {
+  "name": "Perla Nam Salfetka 120dona",
+  "price": 15000,
+  "stock": 41
+ },
+ "1000": {
+  "name": "Grass Suyuq Sovun 1000ml",
+  "price": 29000,
+  "stock": 6
+ },
+ "1001": {
+  "name": "Sev Gel 550ml",
+  "price": 14000,
+  "stock": 12
+ },
+ "1002": {
+  "name": "Sev Gel 1000ml",
+  "price": 20000,
+  "stock": 11
+ },
+ "1003": {
+  "name": "Crystal Gel 500ml",
+  "price": 12000,
+  "stock": 19
+ },
+ "1004": {
+  "name": "Kaplya Toshkent 500ml",
+  "price": 8000,
+  "stock": 15
+ },
+ "1005": {
+  "name": "Kaplya Rus 500gr",
+  "price": 15000,
+  "stock": 15
+ },
+ "1006": {
+  "name": "Billur Chistol 400gr",
+  "price": 6000,
+  "stock": 13
+ },
+ "1007": {
+  "name": "Perla 6 Giga XL 66dona",
+  "price": 233000,
+  "stock": 2
+ },
+ "1008": {
+  "name": "Chistolin 500gr",
+  "price": 5000,
+  "stock": 24
+ },
+ "1009": {
+  "name": "Perla 5 Giga Junior 76dona",
+  "price": 233000,
+  "stock": 2
+ },
+ "1010": {
+  "name": "Biolan Antijir 400gr",
+  "price": 13000,
+  "stock": 10
+ },
+ "1011": {
+  "name": "Chistin Soda 400gr",
+  "price": 14000,
+  "stock": 19
+ },
+ "1012": {
+  "name": "Perla 4 Giga Maxi 90dona",
+  "price": 233000,
+  "stock": 2
+ },
+ "1013": {
+  "name": "Pemolux Soda 480gr",
+  "price": 13000,
+  "stock": 15
+ },
+ "1014": {
+  "name": "Perla 6 Mega XL 36dona",
+  "price": 133000,
+  "stock": 1
+ },
+ "1015": {
+  "name": "Antabax Gel 1.3kg",
+  "price": 55000,
+  "stock": 6
+ },
+ "1016": {
+  "name": "Antabax Gel 500ml",
+  "price": 21000,
+  "stock": 5
+ },
+ "1017": {
+  "name": "Chistin Omega-Belizna 950gr",
+  "price": 40000,
+  "stock": 8
+ },
+ "1018": {
+  "name": "Perla 5 Mega Junior 42dona",
+  "price": 133000,
+  "stock": 3
+ },
+ "1019": {
+  "name": "Chistin WS Gel 750ml",
+  "price": 31000,
+  "stock": 21
+ },
+ "1020": {
+  "name": "Perla 4 Mega Maxi 50dona",
+  "price": 133000,
+  "stock": 4
+ },
+ "1021": {
+  "name": "Perla 3 Mega Mini 56dona",
+  "price": 133000,
+  "stock": 4
+ },
+ "1022": {
+  "name": "Perla 2 Mega Mini 66dona",
+  "price": 133000,
+  "stock": 4
+ },
+ "1023": {
+  "name": "Perla 1 Mega 68dona",
+  "price": 133000,
+  "stock": 2
+ },
+ "1024": {
+  "name": "Billur Unitaz Gel 750ml",
+  "price": 22000,
+  "stock": 8
+ },
+ "1025": {
+  "name": "Billur Antijir 450ml",
+  "price": 23000,
+  "stock": 10
+ },
+ "1026": {
+  "name": "Sanita Antinalyot-Metal 500ml",
+  "price": 43000,
+  "stock": 8
+ },
+ "1027": {
+  "name": "Sanita Antijir-Kazan 500ml",
+  "price": 39000,
+  "stock": 5
+ },
+ "1028": {
+  "name": "Utenok Gel Tualetniy 500ml",
+  "price": 29000,
+  "stock": 12
+ },
+ "1029": {
+  "name": "Utenok Gel Tualetniy 900ml",
+  "price": 46000,
+  "stock": 11
+ },
+ "1030": {
+  "name": "Perla Mini 5",
+  "price": 44000,
+  "stock": 5
+ },
+ "1031": {
+  "name": "Xayat Oyna 575ml",
+  "price": 7000,
+  "stock": 17
+ },
+ "1032": {
+  "name": "Perla Mini 4",
+  "price": 44000,
+  "stock": 5
+ },
+ "1033": {
+  "name": "Perla Mini 3",
+  "price": 44000,
+  "stock": 5
+ },
+ "1034": {
+  "name": "Grass Grill 600ml",
+  "price": 45000,
+  "stock": 8
+ },
+ "1035": {
+  "name": "Perla Mini 2",
+  "price": 44000,
+  "stock": 5
+ },
+ "1036": {
+  "name": "Perla Mini 1",
+  "price": 44000,
+  "stock": 5
+ },
+ "1037": {
+  "name": "Grass Gloss 600ml",
+  "price": 35000,
+  "stock": 4
+ },
+ "1038": {
+  "name": "Grass Torus 600ml",
+  "price": 35000,
+  "stock": 4
+ },
+ "1039": {
+  "name": "Grass Universal 600ml",
+  "price": 33000,
+  "stock": 4
+ },
+ "1040": {
+  "name": "Grass Azelit",
+  "price": 31000,
+  "stock": 11
+ },
+ "1041": {
+  "name": "Doctor-s 1.8l",
+  "price": 34000,
+  "stock": 5
+ },
+ "1042": {
+  "name": "Doctor-s Shampun 750l",
+  "price": 23000,
+  "stock": 10
+ },
+ "1043": {
+  "name": "Doctor-s Shampun 1l",
+  "price": 27000,
+  "stock": 7
+ },
+ "1044": {
+  "name": "Doctor-s Shampun 1.8l",
+  "price": 40000,
+  "stock": 5
+ },
+ "1045": {
+  "name": "Adolph Shampun 500ml",
+  "price": 68000,
+  "stock": 8
+ },
+ "1046": {
+  "name": "Haservay Shampun 800ml",
+  "price": 86000,
+  "stock": 8
+ },
+ "1047": {
+  "name": "Aogu Shampun 800ml",
+  "price": 68000,
+  "stock": 8
+ },
+ "1048": {
+  "name": "Max Gel 300gr",
+  "price": 10000,
+  "stock": 20
+ },
+ "1049": {
+  "name": "Max Gel 200gr",
+  "price": 7000,
+  "stock": 33
+ },
+ "1050": {
+  "name": "Max Gel 1kg",
+  "price": 30000,
+  "stock": 6
+ },
+ "1051": {
+  "name": "Genius Gel 5l",
+  "price": 103000,
+  "stock": 4
+ },
+ "1052": {
+  "name": "Yumsa Gel 5l",
+  "price": 56000,
+  "stock": 2
+ },
+ "1053": {
+  "name": "Palmera Osvejitel",
+  "price": 20000,
+  "stock": 15
+ },
+ "1054": {
+  "name": "Hayat Asvejitel",
+  "price": 13000,
+  "stock": 19
+ },
+ "1055": {
+  "name": "Air Max",
+  "price": 11000,
+  "stock": 23
+ },
+ "1056": {
+  "name": "Air Smart",
+  "price": 12000,
+  "stock": 24
+ },
+ "1057": {
+  "name": "Air Time",
+  "price": 13000,
+  "stock": 23
+ },
+ "1058": {
+  "name": "Brilliant Gel 5l",
+  "price": 19000,
+  "stock": 2
+ },
+ "1059": {
+  "name": "Econom Gel 5l",
+  "price": 13000,
+  "stock": 4
+ },
+ "1060": {
+  "name": "Million Gel 3l",
+  "price": 18000,
+  "stock": 11
+ },
+ "1061": {
+  "name": "Brilliant Gel 3l",
+  "price": 13000,
+  "stock": 4
+ },
+ "1062": {
+  "name": "Vernel Gel 1440ml",
+  "price": 72000,
+  "stock": 5
+ },
+ "1063": {
+  "name": "Vernel Gel 870ml",
+  "price": 38000,
+  "stock": 7
+ },
+ "1064": {
+  "name": "Perwoll Gel 2.97l",
+  "price": 117000,
+  "stock": 6
+ },
+ "1065": {
+  "name": "Perwoll Gel 2l",
+  "price": 86000,
+  "stock": 6
+ },
+ "1066": {
+  "name": "Perwoll Gel 1l",
+  "price": 59000,
+  "stock": 12
+ },
+ "1067": {
+  "name": "Persil Gel 1.040l",
+  "price": 65000,
+  "stock": 6
+ },
+ "1068": {
+  "name": "Persil Gel 1.69l",
+  "price": 97000,
+  "stock": 6
+ },
+ "1069": {
+  "name": "Persil Gel 2.145l",
+  "price": 112000,
+  "stock": 3
+ },
+ "1070": {
+  "name": "Eron Gel 1.1kg",
+  "price": 52000,
+  "stock": 6
+ },
+ "1071": {
+  "name": "Eron Gel 2.7kg",
+  "price": 112000,
+  "stock": 7
+ },
+ "1072": {
+  "name": "Yumos Extra Mix 1440ml",
+  "price": 65000,
+  "stock": 17
+ },
+ "1073": {
+  "name": "Nivea Must Lasion",
+  "price": 86000,
+  "stock": 5
+ },
+ "1074": {
+  "name": "Nivea Men Gel Britva",
+  "price": 68000,
+  "stock": 5
+ },
+ "1075": {
+  "name": "Nivea Men Pena",
+  "price": 68000,
+  "stock": 11
+ },
+ "1076": {
+  "name": "Nivea Women Gel for bath 250gr",
+  "price": 35000,
+  "stock": 20
+ },
+ "1077": {
+  "name": "Nivea Men Gel Dlya Dush",
+  "price": 40000,
+  "stock": 20
+ },
+ "1078": {
+  "name": "Nivea Men 50gr",
+  "price": 44000,
+  "stock": 24
+ },
+ "1079": {
+  "name": "Nivea Women Stick",
+  "price": 40000,
+  "stock": 30
+ },
+ "1080": {
+  "name": "Nivea Women Rollik",
+  "price": 34000,
+  "stock": 49
+ },
+ "1081": {
+  "name": "Nivea Men Rollik",
+  "price": 36000,
+  "stock": 49
+ },
+ "1082": {
+  "name": "Nivea Soft Cream 100gr",
+  "price": 46000,
+  "stock": 6
+ },
+ "1083": {
+  "name": "Nive Shayba 75gr",
+  "price": 26000,
+  "stock": 12
+ },
+ "1084": {
+  "name": "Nivea Shayba 30g",
+  "price": 22000,
+  "stock": 12
+ },
+ "1085": {
+  "name": "Nivea Spray Women 150ml",
+  "price": 35000,
+  "stock": 196
+ },
+ "1086": {
+  "name": "Nivea Spray Men 150ml",
+  "price": 36000,
+  "stock": 186
+ },
+ "1087": {
+  "name": "Ariel 3kg",
+  "price": 102000,
+  "stock": 6
+ },
+ "1088": {
+  "name": "Maloko Zayka 550gr",
+  "price": 17000,
+  "stock": 14
+ },
+ "1089": {
+  "name": "Lakomka Maloko 550gr",
+  "price": 17000,
+  "stock": 15
+ },
+ "1090": {
+  "name": "Lakomka Maloko 320gr",
+  "price": 10000,
+  "stock": 15
+ },
+ "1091": {
+  "name": "Maloko Zayka 320gr",
+  "price": 12000,
+  "stock": 15
+ },
+ "1092": {
+  "name": "Lakomka 8.5% 1kg",
+  "price": 26000,
+  "stock": 17
+ },
+ "1093": {
+  "name": "Maselka Zayka 1kg",
+  "price": 26000,
+  "stock": 13
+ },
+ "1094": {
+  "name": "Mayonez 160gr",
+  "price": 8000,
+  "stock": 29
+ },
+ "1095": {
+  "name": "Mayonez Premium Gold 160gr",
+  "price": 8000,
+  "stock": 28
+ },
+ "1096": {
+  "name": "Mayonez Premium Gold 67% 360gr",
+  "price": 15000,
+  "stock": 18
+ },
+ "1097": {
+  "name": "Mayonez 360gr",
+  "price": 15000,
+  "stock": 18
+ },
+ "1098": {
+  "name": "Mayonez Lyogkiy 25% 360gr",
+  "price": 10000,
+  "stock": 39
+ },
+ "1099": {
+  "name": "Ketchup Classic 500gr",
+  "price": 15000,
+  "stock": 19
+ },
+ "1100": {
+  "name": "Ketchup Classic 300gr",
+  "price": 9000,
+  "stock": 27
+ },
+ "1101": {
+  "name": "Maselka Zayka 340gr",
+  "price": 10000,
+  "stock": 71
+ },
+ "1102": {
+  "name": "Maselka Mayonez 770gr",
+  "price": 28000,
+  "stock": 6
+ },
+ "1103": {
+  "name": "Maselka Sous Mix",
+  "price": 13000,
+  "stock": 22
+ },
+ "1104": {
+  "name": "Maselka Nachinka 1kg",
+  "price": 22000,
+  "stock": 29
+ },
+ "1105": {
+  "name": "Lakomka 8.5% 500gr",
+  "price": 16000,
+  "stock": 29
+ },
+ "1106": {
+  "name": "Mayonez Premium Gold 770gr",
+  "price": 30000,
+  "stock": 6
+ },
+ "1107": {
+  "name": "Horeca Ketchup 800gr",
+  "price": 12000,
+  "stock": 4
+ },
+ "1108": {
+  "name": "Xoreka Mayonez 35% 800gr",
+  "price": 18000,
+  "stock": 5
+ },
+ "1109": {
+  "name": "Milkino Moloko 8.5% 900gr",
+  "price": 26000,
+  "stock": 34
+ },
+ "1110": {
+  "name": "Maselka Zayka 8.5% 900gr",
+  "price": 26000,
+  "stock": 27
+ },
+ "1111": {
+  "name": "Maselka Lakomka 8.5% 900gr",
+  "price": 26000,
+  "stock": 25
+ },
+ "1112": {
+  "name": "Maselka Zayka 8.5% 500gr",
+  "price": 16000,
+  "stock": 35
+ },
+ "1113": {
+  "name": "Fairy Gel 500ml",
+  "price": 25000,
+  "stock": 30
+ },
+ "1114": {
+  "name": "Fairy Gel 1350ml",
+  "price": 62000,
+  "stock": 8
+ },
+ "1115": {
+  "name": "Fairy Gel 1500ml",
+  "price": 68000,
+  "stock": 9
+ },
+ "1116": {
+  "name": "Fairy Gel 750ml",
+  "price": 37000,
+  "stock": 20
+ },
+ "1117": {
+  "name": "Fairy Gel 1000ml",
+  "price": 47000,
+  "stock": 16
+ },
+ "1118": {
+  "name": "H&SH Balzam/Shampoo",
+  "price": 47000,
+  "stock": 18
+ },
+ "1119": {
+  "name": "Head & Shoulders Men ultra 360ml",
+  "price": 48000,
+  "stock": 12
+ },
+ "1120": {
+  "name": "Head & Shoulders 360gr",
+  "price": 44000,
+  "stock": 124
+ },
+ "1121": {
+  "name": "Pro Series Shampoo 500ml",
+  "price": 55000,
+  "stock": 12
+ },
+ "1122": {
+  "name": "Head & Shoulders 1000ml",
+  "price": 123000,
+  "stock": 11
+ },
+ "1123": {
+  "name": "Head & Shoulders 600ml",
+  "price": 69000,
+  "stock": 17
+ },
+ "1124": {
+  "name": "Head & Shoulders 200ml",
+  "price": 31000,
+  "stock": 17
+ },
+ "1125": {
+  "name": "Pantene Balzam 275ml",
+  "price": 39000,
+  "stock": 12
+ },
+ "1126": {
+  "name": "Pantene Shampoo 250ml",
+  "price": 34000,
+  "stock": 19
+ },
+ "1127": {
+  "name": "Pantene Shampoo 400ml",
+  "price": 39000,
+  "stock": 12
+ },
+ "1128": {
+  "name": "Pantene Shampoo 325ml",
+  "price": 40000,
+  "stock": 10
+ },
+ "1129": {
+  "name": "Pantene Shampoo 400ml",
+  "price": 40000,
+  "stock": 47
+ },
+ "1130": {
+  "name": "Discreet 100dona Mix",
+  "price": 66000,
+  "stock": 4
+ },
+ "1131": {
+  "name": "Discreet 60dona mix",
+  "price": 48000,
+  "stock": 12
+ },
+ "1132": {
+  "name": "Discreet 20dona Mix",
+  "price": 18000,
+  "stock": 19
+ },
+ "1133": {
+  "name": "Naturella Ultra 8 dona",
+  "price": 17000,
+  "stock": 2
+ },
+ "1134": {
+  "name": "Always Prokladki Mix",
+  "price": 27000,
+  "stock": 50
+ },
+ "1135": {
+  "name": "Old Spice Shampoo Mix 400ml",
+  "price": 53000,
+  "stock": 22
+ },
+ "1136": {
+  "name": "Safeguard 225ml",
+  "price": 34000,
+  "stock": 2
+ },
+ "1137": {
+  "name": "Always L 48dona",
+  "price": 48000,
+  "stock": 4
+ },
+ "1138": {
+  "name": "Always L 24dona",
+  "price": 30000,
+  "stock": 8
+ },
+ "1139": {
+  "name": "Always L 26dona",
+  "price": 35000,
+  "stock": 8
+ },
+ "1140": {
+  "name": "Always XL 24dona",
+  "price": 32000,
+  "stock": 8
+ },
+ "1141": {
+  "name": "Tornado Granul 70gr",
+  "price": 10000,
+  "stock": 14
+ },
+ "1142": {
+  "name": "Chisto Lyub 400gr",
+  "price": 16000,
+  "stock": 24
+ },
+ "1143": {
+  "name": "Fairy 900ml",
+  "price": 43000,
+  "stock": 14
+ },
+ "1144": {
+  "name": "Tide Avtomat  450gr",
+  "price": 22000,
+  "stock": 6
+ },
+ "1145": {
+  "name": "Mif Avtomat 1.7kg",
+  "price": 50000,
+  "stock": 8
+ },
+ "1146": {
+  "name": "Mif Avtomat 3v1 2kg",
+  "price": 55000,
+  "stock": 13
+ },
+ "1147": {
+  "name": "Mif Avtomat Mix Karobka 400gr",
+  "price": 15500,
+  "stock": 12
+ },
+ "1148": {
+  "name": "Ariel Avtomat karobka 450gr",
+  "price": 24000,
+  "stock": 6
+ },
+ "1149": {
+  "name": "Duracell Battery katta",
+  "price": 19000,
+  "stock": 19
+ },
+ "1150": {
+  "name": "Duracell battery kichik",
+  "price": 19000,
+  "stock": 17
+ },
+ "1151": {
+  "name": "Naturella Ultra",
+  "price": 15000,
+  "stock": 3
+ },
+ "1152": {
+  "name": "Gilette Gel Antiperspirant 70ml",
+  "price": 64000,
+  "stock": 15
+ },
+ "1153": {
+  "name": "Gilette Sensor3+ Comfort",
+  "price": 58000,
+  "stock": 4
+ },
+ "1154": {
+  "name": "Gilette Cleansing 200ml",
+  "price": 60000,
+  "stock": 6
+ },
+ "1155": {
+  "name": "Gilette Shave Gel 200ml",
+  "price": 54000,
+  "stock": 6
+ },
+ "1156": {
+  "name": "Gilette Shave Foam 200ml",
+  "price": 45000,
+  "stock": 6
+ },
+ "1157": {
+  "name": "Gilette Shave Foam 300ml",
+  "price": 49000,
+  "stock": 6
+ },
+ "1158": {
+  "name": "Gilette Shave Foam 200ml",
+  "price": 45000,
+  "stock": 6
+ },
+ "1159": {
+  "name": "Gilette Mach3",
+  "price": 76000,
+  "stock": 2
+ },
+ "1160": {
+  "name": "Gilette Blue 3 Plus",
+  "price": 38000,
+  "stock": 6
+ },
+ "1161": {
+  "name": "Old Spice Shampoo 400ml",
+  "price": 53000,
+  "stock": 2
+ },
+ "1162": {
+  "name": "Old Spice Deodrant 50ml",
+  "price": 39000,
+  "stock": 33
+ },
+ "1163": {
+  "name": "Old Spice Deodrant Mix 150ml",
+  "price": 39000,
+  "stock": 35
+ },
+ "1164": {
+  "name": "Old Spice Whitewater 70ml",
+  "price": 62000,
+  "stock": 3
+ },
+ "1165": {
+  "name": "Old Spice Captain 70ml",
+  "price": 62000,
+  "stock": 2
+ },
+ "1166": {
+  "name": "SafeGuard Kids",
+  "price": 35000,
+  "stock": 1
+ },
+ "1167": {
+  "name": "SafeGuard Sovun",
+  "price": 35000,
+  "stock": 2
+ },
+ "1168": {
+  "name": "Gilette Venus Simply Smooth",
+  "price": 46000,
+  "stock": 6
+ },
+ "1169": {
+  "name": "Gilette Venus Smooth Miami",
+  "price": 72000,
+  "stock": 6
+ },
+ "1170": {
+  "name": "Gilette Simply Venus Basic",
+  "price": 37000,
+  "stock": 10
+ },
+ "1171": {
+  "name": "Gilette Venus Tropical 3dona",
+  "price": 78000,
+  "stock": 6
+ },
+ "1172": {
+  "name": "Gilette Simply Venus 3",
+  "price": 14000,
+  "stock": 24
+ },
+ "1173": {
+  "name": "Gilette Simply Venus 2",
+  "price": 10000,
+  "stock": 24
+ },
+ "1174": {
+  "name": "Gilette ProGlide",
+  "price": 158000,
+  "stock": 2
+ },
+ "1175": {
+  "name": "Gilette Fusion 5",
+  "price": 150000,
+  "stock": 2
+ },
+ "1176": {
+  "name": "Gilette Mach3 Charcoal",
+  "price": 76000,
+  "stock": 2
+ },
+ "1177": {
+  "name": "Gilette 2 Donali",
+  "price": 6000,
+  "stock": 45
+ },
+ "1178": {
+  "name": "Gilette 2 5dona",
+  "price": 24000,
+  "stock": 10
+ },
+ "1179": {
+  "name": "Gilette Blue II Plus",
+  "price": 7000,
+  "stock": 37
+ },
+ "1180": {
+  "name": "Gilette Mach 3 Havo rang donasi",
+  "price": 28000,
+  "stock": 12
+ },
+ "1181": {
+  "name": "Gilette Fusion 5 Apelsin rang donasi",
+  "price": 40000,
+  "stock": 12
+ },
+ "1182": {
+  "name": "Tide Avt Color Lenor 2.5kg",
+  "price": 77000,
+  "stock": 6
+ },
+ "1183": {
+  "name": "Ariel Avt Color 2.5kg",
+  "price": 80000,
+  "stock": 5
+ },
+ "1184": {
+  "name": "Ariel Avt 2v1 Lenor Fresh 2.5kg",
+  "price": 80000,
+  "stock": 6
+ },
+ "1185": {
+  "name": "Zamin 71 Zip 350gr",
+  "price": 18000,
+  "stock": 20
+ },
+ "1186": {
+  "name": "Zamin 8810 1kg",
+  "price": 100000,
+  "stock": 10
+ },
+ "1187": {
+  "name": "Zamin 8008 250gr",
+  "price": 26000,
+  "stock": 30
+ },
+ "1188": {
+  "name": "Zamin 8008 125gr",
+  "price": 14000,
+  "stock": 50
+ },
+ "1189": {
+  "name": "Zamin 71 A Zip 400gr",
+  "price": 21000,
+  "stock": 19
+ },
+ "1190": {
+  "name": "Zamin Premium 400gr",
+  "price": 52000,
+  "stock": 20
+ },
+ "1191": {
+  "name": "Zamin 8008 400gr",
+  "price": 41000,
+  "stock": 20
+ },
+ "1192": {
+  "name": "Zamin Kenya Gold 200gr",
+  "price": 17000,
+  "stock": 40
+ },
+ "1193": {
+  "name": "Zamin 8008 1kg",
+  "price": 100000,
+  "stock": 10
+ },
+ "1194": {
+  "name": "Zamin 8810 125gr",
+  "price": 15000,
+  "stock": 50
+ },
+ "1195": {
+  "name": "Zamin 8810 250gr",
+  "price": 28000,
+  "stock": 28
+ },
+ "1196": {
+  "name": "Zamin Premium 200gr",
+  "price": 26000,
+  "stock": 30
+ },
+ "1197": {
+  "name": "Zamin 71A Zip 200gr",
+  "price": 11000,
+  "stock": 39
+ },
+ "1198": {
+  "name": "Zamin Kenya Gold 350gr",
+  "price": 29000,
+  "stock": 29
+ },
+ "1199": {
+  "name": "Zamin 8810 400gr",
+  "price": 41000,
+  "stock": 20
+ },
+ "1200": {
+  "name": "Zamin 110 80gr",
+  "price": 5000,
+  "stock": 49
+ },
+ "1201": {
+  "name": "Zamin BOP 80gr",
+  "price": 5000,
+  "stock": 50
+ },
+ "1202": {
+  "name": "Zamin 95 80gr",
+  "price": 5000,
+  "stock": 50
+ },
+ "1203": {
+  "name": "Zamin Aroma 300gr",
+  "price": 15000,
+  "stock": 29
+ },
+ "1204": {
+  "name": "Zamin Kenya Gold 100gr",
+  "price": 13000,
+  "stock": 100
+ },
+ "1205": {
+  "name": "Zamin 4011 400gr",
+  "price": 23000,
+  "stock": 28
+ },
+ "1206": {
+  "name": "Zamin 110 200gr",
+  "price": 9000,
+  "stock": 40
+ },
+ "1207": {
+  "name": "Zamin 110 400gr",
+  "price": 16000,
+  "stock": 24
+ },
+ "1208": {
+  "name": "Zamin 110 Samarkand 300gr",
+  "price": 11000,
+  "stock": 26
+ },
+ "1209": {
+  "name": "Zamin Aroma 400gr",
+  "price": 16000,
+  "stock": 29
+ },
+ "1210": {
+  "name": "Zamin Aroma 200gr",
+  "price": 9000,
+  "stock": 40
+ },
+ "1211": {
+  "name": "Zamin Eron BOP 2 1kg",
+  "price": 24000,
+  "stock": 20
+ },
+ "1212": {
+  "name": "Zamin 71 A 1kg",
+  "price": 45000,
+  "stock": 21
+ },
+ "1213": {
+  "name": "Zamin Zira Choy 1kg",
+  "price": 35000,
+  "stock": 18
+ },
+ "1214": {
+  "name": "Zamin Eron BOP 1kg",
+  "price": 31000,
+  "stock": 20
+ },
+ "1215": {
+  "name": "Bekoy Aroma 400gr",
+  "price": 17000,
+  "stock": 27
+ },
+ "1216": {
+  "name": "Bekoy Z8 500gr",
+  "price": 16000,
+  "stock": 29
+ },
+ "1217": {
+  "name": "Zamin 110 Choyxona Choy 2kg",
+  "price": 50000,
+  "stock": 11
+ },
+ "1218": {
+  "name": "Bekoy Aroma 200gr",
+  "price": 10000,
+  "stock": 30
+ },
+ "1219": {
+  "name": "Bekoy Z110 200gr",
+  "price": 6600,
+  "stock": 30
+ },
+ "1220": {
+  "name": "Zamin 71 Baklashka 800gr",
+  "price": 45000,
+  "stock": 7
+ },
+ "1221": {
+  "name": "Zamin Sovga 200 gr",
+  "price": 18000,
+  "stock": 22
+ },
+ "1222": {
+  "name": "Zamin 71 Baklashka 300gr",
+  "price": 20000,
+  "stock": 5
+ },
+ "1223": {
+  "name": "Zamin OPA 1kg",
+  "price": 35000,
+  "stock": 10
+ },
+ "1224": {
+  "name": "Zamin Xushboy 3kg",
+  "price": 115000,
+  "stock": 3
+ },
+ "1225": {
+  "name": "Zamin 95 1kg",
+  "price": 36000,
+  "stock": 9
+ },
+ "1226": {
+  "name": "Zamin Kenya Gold 1kg",
+  "price": 75000,
+  "stock": 10
+ },
+ "1227": {
+  "name": "Bekoy Aroma Qora choy 50gr",
+  "price": 3000,
+  "stock": 50
+ },
+ "1228": {
+  "name": "Bekoy Z47 Ko'k choy 50gr",
+  "price": 2000,
+  "stock": 50
+ },
+ "1229": {
+  "name": "Zamin 71 Zira 1kg shtrix yoq",
+  "price": 35000,
+  "stock": 21
+ },
+ "1230": {
+  "name": "Zamin 71 Zira 1kg Matoviy",
+  "price": 37000,
+  "stock": 12
+ },
+ "1231": {
+  "name": "Zamin Zira Matoviy 1kg",
+  "price": 35000,
+  "stock": 11
+ },
+ "1232": {
+  "name": "Chocotella Duo  330gr",
+  "price": 35000,
+  "stock": 22
+ },
+ "1233": {
+  "name": "Chococream 300gr",
+  "price": 30000,
+  "stock": 23
+ },
+ "1234": {
+  "name": "Chococream 400gr",
+  "price": 35000,
+  "stock": 33
+ },
+ "1235": {
+  "name": "Chococream 500gr",
+  "price": 40000,
+  "stock": 12
+ },
+ "1236": {
+  "name": "Chococream 900gr",
+  "price": 65000,
+  "stock": 14
+ },
+ "1237": {
+  "name": "Zarqand Brownie Cookies 490gr",
+  "price": 36000,
+  "stock": 10
+ },
+ "1238": {
+  "name": "Zarqand Classic Cookies 530gr",
+  "price": 36000,
+  "stock": 10
+ },
+ "1239": {
+  "name": "Zarqand Parijel",
+  "price": 16000,
+  "stock": 49
+ },
+ "1240": {
+  "name": "Zarqand Orange Cookies 170gr",
+  "price": 12000,
+  "stock": 40
+ },
+ "1241": {
+  "name": "Zarqand Apple Cookies 170gr",
+  "price": 12000,
+  "stock": 37
+ },
+ "1242": {
+  "name": "Zarqand Mini Mango 180gr",
+  "price": 10000,
+  "stock": 47
+ },
+ "1243": {
+  "name": "Zarqand Mini Karamel 180gr",
+  "price": 10000,
+  "stock": 47
+ },
+ "1244": {
+  "name": "Zarand Dubai Cookies 210gr",
+  "price": 16000,
+  "stock": 174
+ },
+ "1245": {
+  "name": "Krember Bruni Mini 19gr",
+  "price": 59000,
+  "stock": 20
+ },
+ "1246": {
+  "name": "Krember Bruni Keks 40gr",
+  "price": 2500,
+  "stock": 470
+ },
+ "1247": {
+  "name": "Krember Blum 30gr",
+  "price": 2000,
+  "stock": 542
+ },
+ "1248": {
+  "name": "Krember Welnut 150gr",
+  "price": 14000,
+  "stock": 31
+ },
+ "1249": {
+  "name": "Krember Mr Donut 43gr",
+  "price": 2500,
+  "stock": 140
+ },
+ "1250": {
+  "name": "Krember Moon Ekran 1kg",
+  "price": 52000,
+  "stock": 5
+ },
+ "1251": {
+  "name": "Krember Ole 14gr",
+  "price": 49000,
+  "stock": 7.5
+ },
+ "1252": {
+  "name": "Krember Jovi 30gr",
+  "price": 1600,
+  "stock": 200
+ },
+ "1253": {
+  "name": "Krember Kidi Pirojniy 25gr",
+  "price": 1200,
+  "stock": 232
+ },
+ "1254": {
+  "name": "Krember Kidi Pirojni 35gr",
+  "price": 1600,
+  "stock": 240
+ },
+ "1255": {
+  "name": "Krember Cake up 55gr",
+  "price": 3000,
+  "stock": 148
+ },
+ "1256": {
+  "name": "Krember Bis Kvi Rulet 35gr",
+  "price": 2000,
+  "stock": 201
+ },
+ "1257": {
+  "name": "Krember Toplyonoe Moloko 275gr",
+  "price": 8500,
+  "stock": 33
+ },
+ "1258": {
+  "name": "Krember Hazel 255gr",
+  "price": 14000,
+  "stock": 51
+ },
+ "1259": {
+  "name": "Krember Toplyonka 250gr",
+  "price": 7500,
+  "stock": 32
+ },
+ "1260": {
+  "name": "Krember Utrennee 230gr",
+  "price": 7000,
+  "stock": 34
+ },
+ "1261": {
+  "name": "Krember Sgushonnie Moloko 280gr",
+  "price": 8500,
+  "stock": 36
+ },
+ "1262": {
+  "name": "Krember Tvorojnoe",
+  "price": 8000,
+  "stock": 11
+ },
+ "1263": {
+  "name": "Krember Sgushonka 305gr",
+  "price": 9000,
+  "stock": 35
+ },
+ "1264": {
+  "name": "Krember Dumaloq 200gr",
+  "price": 6000,
+  "stock": 39
+ },
+ "1265": {
+  "name": "Krember Piknik 255gr",
+  "price": 8000,
+  "stock": 41
+ },
+ "1266": {
+  "name": "Krember Crispy Cream 500gr",
+  "price": 30000,
+  "stock": 8
+ },
+ "1267": {
+  "name": "Krember Frutti Fru 500gr",
+  "price": 18000,
+  "stock": 7
+ },
+ "1268": {
+  "name": "Krember Frutti Fru 900gr",
+  "price": 33000,
+  "stock": 4
+ },
+ "1269": {
+  "name": "Krember Koko Late 500gr",
+  "price": 30000,
+  "stock": 8
+ },
+ "1270": {
+  "name": "Krember Joy Candy 500gr",
+  "price": 19000,
+  "stock": 23
+ },
+ "1271": {
+  "name": "Krember Alpina Shokolad 1kg",
+  "price": 52000,
+  "stock": 6
+ },
+ "1272": {
+  "name": "Krember Alpina Shkolad 500gr",
+  "price": 26000,
+  "stock": 23
+ },
+ "1273": {
+  "name": "Krember Shoko Mel 1kg",
+  "price": 52000,
+  "stock": 6
+ },
+ "1274": {
+  "name": "Krember Shoko Mel 500gr",
+  "price": 26000,
+  "stock": 23
+ },
+ "1275": {
+  "name": "Krember Vafli Oq Paket 280gr",
+  "price": 10000,
+  "stock": 50
+ },
+ "1276": {
+  "name": "Krember Rokki Kroki 280gr",
+  "price": 11000,
+  "stock": 209
+ },
+ "1277": {
+  "name": "Krember Rokki Kroki Vafli 300gr",
+  "price": 13000,
+  "stock": 100
+ },
+ "1278": {
+  "name": "Krember Cake Moon 200gr",
+  "price": 11000,
+  "stock": 119
+ },
+ "1279": {
+  "name": "Krember Rondo 70gr",
+  "price": 3000,
+  "stock": 132
+ },
+ "1280": {
+  "name": "Krember Max Fun 73gr",
+  "price": 3000,
+  "stock": 62
+ },
+ "1281": {
+  "name": "Krember Ole 84gr",
+  "price": 4000,
+  "stock": 118
+ },
+ "1282": {
+  "name": "Krember Ole 182gr",
+  "price": 9000,
+  "stock": 174
+ },
+ "1283": {
+  "name": "Krember 5+ 200gr",
+  "price": 12000,
+  "stock": 51
+ },
+ "1284": {
+  "name": "Krember Bruni Mini Kakao 190gr",
+  "price": 10000,
+  "stock": 155
+ },
+ "1285": {
+  "name": "Krember Lemer 255 gr",
+  "price": 13000,
+  "stock": 50
+ },
+ "1286": {
+  "name": "Van Vansi Chips 1kg (YJF)",
+  "price": 90000,
+  "stock": 150
+ },
+ "1287": {
+  "name": "Palmolive Sovun 150gr",
+  "price": 14000,
+  "stock": 490
+ },
+ "1288": {
+  "name": "Alif 12 donali",
+  "price": 10000,
+  "stock": 179
+ },
+ "1289": {
+  "name": "Pulpy 12 donali",
+  "price": 10000,
+  "stock": 178
+ },
+ "1290": {
+  "name": "Bamboozy Salfetka",
+  "price": 7000,
+  "stock": 58
+ },
+ "1291": {
+  "name": "Bamboozy Dispanser",
+  "price": 27000,
+  "stock": 11
+ },
+ "1292": {
+  "name": "Bamboozy Sochiq",
+  "price": 27000,
+  "stock": 19
+ },
+ "1293": {
+  "name": "Bamboozy Nam Salfetkalar",
+  "price": 28000,
+  "stock": 19
+ },
+ "1294": {
+  "name": "Bamboozy Bumaga",
+  "price": 35000,
+  "stock": 32
+ },
+ "1295": {
+  "name": "Bamboozy Vtulkali",
+  "price": 36000,
+  "stock": 31
+ },
+ "1296": {
+  "name": "Red bull 0.473 L",
+  "price": 34000,
+  "stock": 106
+ },
+ "1297": {
+  "name": "Red bull 0.355 L",
+  "price": 27000,
+  "stock": 215
+ },
+ "1298": {
+  "name": "Red bull 0,25 L",
+  "price": 20000,
+  "stock": 216
+ },
+ "1299": {
+  "name": "Bek Shirinlik Katta",
+  "price": 35000,
+  "stock": 5
+ },
+ "1300": {
+  "name": "Bahroma moxito kulubnika 75g",
+  "price": 15000,
+  "stock": 0
+ },
+ "1301": {
+  "name": "Deya Apachi 28gr",
+  "price": 2000,
+  "stock": 36
+ },
+ "1302": {
+  "name": "Deya Oreo kg",
+  "price": 33000,
+  "stock": 6.12
+ },
+ "1303": {
+  "name": "Sharqona ToshQurt 50gr",
+  "price": 10000,
+  "stock": 20
+ },
+ "1304": {
+  "name": "Deya Miller Captain 200gr",
+  "price": 14000,
+  "stock": 20
+ },
+ "1305": {
+  "name": "Deya Miller Captain 200gr",
+  "price": 14000,
+  "stock": 20
+ },
+ "1306": {
+  "name": "Bondi Banan",
+  "price": 13000,
+  "stock": 10
+ },
+ "1307": {
+  "name": "Tip-Top Kids 250ml",
+  "price": 5000,
+  "stock": 35
+ },
+ "1308": {
+  "name": "Deya Ketler Kruasan Vanil Klubnika",
+  "price": 3000,
+  "stock": 63
+ },
+ "1309": {
+  "name": "Roshen Sitruis Mix Candy kg",
+  "price": 45000,
+  "stock": 6
+ },
+ "1310": {
+  "name": "Popcorn stakan",
+  "price": 5000,
+  "stock": 26
+ },
+ "1311": {
+  "name": "Svalya Sir kg",
+  "price": 153600,
+  "stock": 2.501
+ },
+ "1312": {
+  "name": "Deya Ketler Kurasan Malina",
+  "price": 3000,
+  "stock": 58
+ },
+ "1313": {
+  "name": "Deya Ketler Kurasan Vanilno",
+  "price": 3000,
+  "stock": 67
+ },
+ "1314": {
+  "name": "Deya Enso Molochni Vafli 200gr",
+  "price": 10000,
+  "stock": 39
+ },
+ "1315": {
+  "name": "Deya Enso Vafli 200gr",
+  "price": 10000,
+  "stock": 40
+ },
+ "1316": {
+  "name": "Kvas 2l",
+  "price": 5000,
+  "stock": 22
+ },
+ "1317": {
+  "name": "Tarvuz kg",
+  "price": 2500,
+  "stock": 145.805
+ },
+ "1318": {
+  "name": "Divniy Vkus 1.8l",
+  "price": 42000,
+  "stock": 5
+ },
+ "1319": {
+  "name": "Sharqona bio qurt",
+  "price": 7000,
+  "stock": 26
+ },
+ "1320": {
+  "name": "PopCorn kg",
+  "price": 45000,
+  "stock": 4.636
+ },
+ "1321": {
+  "name": "Selen Salfetka Dona",
+  "price": 5000,
+  "stock": 55
+ },
+ "1322": {
+  "name": "Qurt Ayron 670ml",
+  "price": 12000,
+  "stock": 4
+ },
+ "1323": {
+  "name": "sharqona sir palichka",
+  "price": 5000,
+  "stock": 74
+ },
+ "1324": {
+  "name": "Sharqona bio qurt",
+  "price": 5000,
+  "stock": 10
+ },
+ "1325": {
+  "name": "YOGURT DOBROE 1,2% 260G",
+  "price": 15000,
+  "stock": 7
+ },
+ "1326": {
+  "name": "M&M 80GR SHOKOLAD",
+  "price": 22000,
+  "stock": 27
+ },
+ "1327": {
+  "name": "Sharqona Anjir Qurt",
+  "price": 10000,
+  "stock": 19
+ },
+ "1328": {
+  "name": "Sharqona Tog Qurt 35gr",
+  "price": 8000,
+  "stock": 40
+ },
+ "1329": {
+  "name": "Sharqona Tosh Qurt",
+  "price": 5000,
+  "stock": 60
+ },
+ "1330": {
+  "name": "Sharqona Bodom",
+  "price": 7000,
+  "stock": 40
+ },
+ "1331": {
+  "name": "Sharqona Xandon Pista",
+  "price": 7000,
+  "stock": 38
+ },
+ "1332": {
+  "name": "Sharqona Keshu",
+  "price": 7000,
+  "stock": 38
+ },
+ "1333": {
+  "name": "Prima Bumaga",
+  "price": 15000,
+  "stock": 86
+ },
+ "1334": {
+  "name": "IMPERIA DUBAI ICE CREAM",
+  "price": 5000,
+  "stock": 1
+ },
+ "1335": {
+  "name": "ROSHEN YUMMIS kg",
+  "price": 57000,
+  "stock": 7
+ },
+ "1336": {
+  "name": "SLOENOE TESTO SOMSA XAMIR 1kg",
+  "price": 22000,
+  "stock": 2
+ },
+ "1337": {
+  "name": "ASAL TAMLI QIYOM KATTA",
+  "price": 10000,
+  "stock": 15
+ },
+ "1338": {
+  "name": "Hydrolife, пэт бутылка 0,5 л",
+  "price": 3000,
+  "stock": 67
+ },
+ "1339": {
+  "name": "Sadaf sut AYRON 5%",
+  "price": 10000,
+  "stock": 2
+ },
+ "1340": {
+  "name": "Micco Mix 0.5L",
+  "price": 7000,
+  "stock": 14
+ },
+ "1341": {
+  "name": "SEDANA kg",
+  "price": 80000,
+  "stock": 1.746
+ },
+ "1342": {
+  "name": "COCA COLA 0.5L ZERO",
+  "price": 7000,
+  "stock": 3
+ },
+ "1343": {
+  "name": "MORS 2l",
+  "price": 3000,
+  "stock": 60
+ },
+ "1344": {
+  "name": "MOLOCHNAYA RADOST KEFIR 2.5%",
+  "price": 7000,
+  "stock": 4
+ },
+ "1345": {
+  "name": "SMETANA 15% LEGKAYA 330gr",
+  "price": 8000,
+  "stock": 4
+ },
+ "1346": {
+  "name": "DALMATOVO SUXARI MOLOCHNOE",
+  "price": 30000,
+  "stock": 6
+ },
+ "1347": {
+  "name": "SMETANA 25% LYUBIMAYA 330gr",
+  "price": 10000,
+  "stock": 4
+ },
+ "1348": {
+  "name": "TIM Eski DOKTORSKAYA",
+  "price": 57800,
+  "stock": 5.012
+ },
+ "1349": {
+  "name": "CARAVAN CHICKEN KURINNIE STRIP 1kg",
+  "price": 80000,
+  "stock": 6
+ },
+ "1350": {
+  "name": "KAL PATIR DONA",
+  "price": 10000,
+  "stock": 7
+ },
+ "1351": {
+  "name": "Semeranka OLMA kg",
+  "price": 10000,
+  "stock": 17.98
+ },
+ "1352": {
+  "name": "MICCO Mix 1L",
+  "price": 10000,
+  "stock": 14
+ },
+ "1353": {
+  "name": "ZIRA kg",
+  "price": 75000,
+  "stock": 2
+ },
+ "1354": {
+  "name": "NISO, QOG'OZ, PISHIRISH UCHUN 42x37 15 DONA",
+  "price": 13000,
+  "stock": 4
+ },
+ "1355": {
+  "name": "MADAD SOK 1l",
+  "price": 18000,
+  "stock": 16
+ },
+ "1356": {
+  "name": "TVAROG YOGSIZ 300gr",
+  "price": 14000,
+  "stock": 3
+ },
+ "1357": {
+  "name": "PECHAK QAND ODDIY kg",
+  "price": 18000,
+  "stock": 14.118
+ },
+ "1358": {
+  "name": "YASHKINO Xolvali vafli 200gr",
+  "price": 11000,
+  "stock": 22
+ },
+ "1359": {
+  "name": "ROSHEN BIM BОM",
+  "price": 45000,
+  "stock": 8
+ },
+ "1360": {
+  "name": "RIZO SARID QOY GOSHT",
+  "price": 132000,
+  "stock": 1.99
+ },
+ "1361": {
+  "name": "RIZO VODIY",
+  "price": 58800,
+  "stock": 2.97
+ },
+ "1362": {
+  "name": "RIZO MASKVA",
+  "price": 55000,
+  "stock": 4.208
+ },
+ "1363": {
+  "name": "RIZO PALTAVA",
+  "price": 66000,
+  "stock": 4.586
+ },
+ "1364": {
+  "name": "RIZO POKON",
+  "price": 102000,
+  "stock": 1.108
+ },
+ "1365": {
+  "name": "RIZO DOKTOR",
+  "price": 58800,
+  "stock": 2.764
+ },
+ "1366": {
+  "name": "RIZO OQIBAT",
+  "price": 84000,
+  "stock": 1.98
+ },
+ "1367": {
+  "name": "RIZO SETKA",
+  "price": 66000,
+  "stock": 0.506
+ },
+ "1368": {
+  "name": "MASHA KASHA MOLOCHNAYA",
+  "price": 17000,
+  "stock": 17
+ },
+ "1369": {
+  "name": "TILLA DUMOR XORAZM SIR kg",
+  "price": 125000,
+  "stock": 2.679
+ },
+ "1370": {
+  "name": "Gorilla, Mango Coconut 0.45l",
+  "price": 12000,
+  "stock": 5
+ },
+ "1371": {
+  "name": "RAXAT SYUPRIZ VAFLI kg",
+  "price": 65000,
+  "stock": 8.18
+ },
+ "1372": {
+  "name": "QAYMAQ ASIL 200gr",
+  "price": 10000,
+  "stock": 4
+ },
+ "1373": {
+  "name": "KREKER FUNNYFISHES 400gr",
+  "price": 24000,
+  "stock": 5
+ },
+ "1374": {
+  "name": "KREKER BUKOVKI 400gr",
+  "price": 24000,
+  "stock": 13
+ },
+ "1375": {
+  "name": "KREKER SIBULKA 400gr",
+  "price": 24000,
+  "stock": 9
+ },
+ "1376": {
+  "name": "KREKER PASYANS 400gr",
+  "price": 24000,
+  "stock": 11
+ },
+ "1377": {
+  "name": "NEJNIY KREKER 400gr",
+  "price": 24000,
+  "stock": 7
+ },
+ "1378": {
+  "name": "DALMATOVO SUXARIKI SLADKIE",
+  "price": 30000,
+  "stock": 3
+ },
+ "1379": {
+  "name": "DALMATOVO SUXARIKI SLADKIE",
+  "price": 30000,
+  "stock": 8
+ },
+ "1380": {
+  "name": "AFSYANKA kg",
+  "price": 71400,
+  "stock": 6.1
+ },
+ "1381": {
+  "name": "ABI PALOCHKI kg",
+  "price": 73800,
+  "stock": 2
+ },
+ "1382": {
+  "name": "YERYONGOQ kg",
+  "price": 34000,
+  "stock": 20.494
+ },
+ "1383": {
+  "name": "Roshen, Карамелькино",
+  "price": 45000,
+  "stock": 8
+ },
+ "1384": {
+  "name": "ROSHEN SHIPUKA KARAMEL",
+  "price": 54000,
+  "stock": 7
+ },
+ "1385": {
+  "name": "BOMAZZA TVAROJNAYA MIX",
+  "price": 10000,
+  "stock": 6
+ },
+ "1386": {
+  "name": "Persil 1.5kg",
+  "price": 50000,
+  "stock": 4
+ },
+ "1387": {
+  "name": "CHECHIL SIR",
+  "price": 10000,
+  "stock": 10
+ },
+ "1388": {
+  "name": "NOVVOT QAYMOQ",
+  "price": 14000,
+  "stock": 121.684
+ },
+ "1389": {
+  "name": "PURE MILK YOGURT pet BANAN",
+  "price": 10000,
+  "stock": 1
+ },
+ "1390": {
+  "name": "PURE MILK YOGURT pet QULUPNAY",
+  "price": 10000,
+  "stock": 1
+ },
+ "1391": {
+  "name": "PURE MILK YOGURT pet SHAFTOLI",
+  "price": 10000,
+  "stock": 1
+ },
+ "1392": {
+  "name": "PURE MILK YOGURT pet ANANAS",
+  "price": 10000,
+  "stock": 2
+ },
+ "1393": {
+  "name": "PureMilky, TVAROG 5% 200gr",
+  "price": 17000,
+  "stock": 1
+ },
+ "1394": {
+  "name": "PureMilky TVAROG 9% 200gr",
+  "price": 18000,
+  "stock": 1
+ },
+ "1395": {
+  "name": "FLAVIS can PEAR 450ml",
+  "price": 10000,
+  "stock": 47
+ },
+ "1396": {
+  "name": "MADAD TOK BARGI 0.7L",
+  "price": 18000,
+  "stock": 10
+ },
+ "1397": {
+  "name": "AVEDOV PODSOLNECHNOE MASLA 5L",
+  "price": 118000,
+  "stock": 6
+ },
+ "1398": {
+  "name": "VIKO SOK YAGODI",
+  "price": 18000,
+  "stock": 10
+ },
+ "1399": {
+  "name": "VIKO SOK Mix",
+  "price": 20000,
+  "stock": 8
+ },
+ "1400": {
+  "name": "ALISA SIR kg",
+  "price": 150000,
+  "stock": 3.55
+ },
+ "1401": {
+  "name": "PUREMILKY SMETANA 20% 180gr",
+  "price": 14000,
+  "stock": 1
+ },
+ "1402": {
+  "name": "PUREMILKY RYAJENKA 4% 480gr (Pet But)",
+  "price": 12000,
+  "stock": 1
+ },
+ "1403": {
+  "name": "PUREMILKY KEFIR 3,2% 480gr (Pet But)",
+  "price": 11000,
+  "stock": 2
+ },
+ "1404": {
+  "name": "PUREMILKY KEFIR 2,5% 480gr (Pet But)",
+  "price": 10000,
+  "stock": 2
+ },
+ "1405": {
+  "name": "PUREMILKY KEFIR 1% 480gr (Pet But)",
+  "price": 9000,
+  "stock": 2
+ },
+ "1406": {
+  "name": "PUREMILKY QAYMOQ 45% 180gr",
+  "price": 18000,
+  "stock": 3
+ },
+ "1407": {
+  "name": "PUREMILKY QATIQ 3% 900gr (Satilcha)",
+  "price": 20000,
+  "stock": 1
+ },
+ "1408": {
+  "name": "PUREMILKY KEFIR 1% 920gr (Pet But)",
+  "price": 16000,
+  "stock": 2
+ },
+ "1409": {
+  "name": "PUREMILKY BIO KEFIR 2,5% 920gr (Pet But)",
+  "price": 18000,
+  "stock": 1
+ },
+ "1410": {
+  "name": "PUREMILKY Sut 1% 1 liter",
+  "price": 15000,
+  "stock": 6
+ },
+ "1411": {
+  "name": "PUREMILKY Sut 2,5% 1 liter",
+  "price": 16000,
+  "stock": 12
+ },
+ "1412": {
+  "name": "Magiya Max Fire 1.5kg",
+  "price": 50000,
+  "stock": 11
+ },
+ "1413": {
+  "name": "Magiya Max Fire 1kg",
+  "price": 40000,
+  "stock": 15
+ },
+ "1414": {
+  "name": "KANZ BODRING MAYDA",
+  "price": 18000,
+  "stock": 57
+ },
+ "1415": {
+  "name": "QOVUN kg",
+  "price": 5000,
+  "stock": 17.74
+ },
+ "1416": {
+  "name": "Evita, ПЭТ бутылка 0,5 л",
+  "price": 2000,
+  "stock": 11
+ },
+ "1417": {
+  "name": "DEYA MILLER VAFLI QORA",
+  "price": 2500,
+  "stock": 139
+ },
+ "1418": {
+  "name": "DEYA MILLER VAFLI",
+  "price": 2500,
+  "stock": 142
+ },
+ "1419": {
+  "name": "YJF Chips kg",
+  "price": 95000,
+  "stock": 132.79
+ },
+ "1420": {
+  "name": "NOXOT UN kg",
+  "price": 9000,
+  "stock": 20.996
+ },
+ "1421": {
+  "name": "KUNJUT kg",
+  "price": 35000,
+  "stock": 7
+ },
+ "1422": {
+  "name": "Rashmilk tvarog kg",
+  "price": 30000,
+  "stock": 9.5
+ },
+ "1423": {
+  "name": "MILLER VAFLI OQ-QORA kg",
+  "price": 53000,
+  "stock": 6
+ },
+ "1424": {
+  "name": "Yogurt Bomazza Mix",
+  "price": 10000,
+  "stock": 5
+ },
+ "1425": {
+  "name": "Global milk smetana 375 25%",
+  "price": 10000,
+  "stock": 3
+ },
+ "1426": {
+  "name": "PISTA TURKIYA",
+  "price": 360000,
+  "stock": 3.38
+ },
+ "1427": {
+  "name": "Sherin Senator",
+  "price": 95000,
+  "stock": 4
+ },
+ "1428": {
+  "name": "KANZ BODRING TOMAT SOK 1L",
+  "price": 18000,
+  "stock": 31
+ },
+ "1429": {
+  "name": "KANZ QALAMPIR SUVLI 0.72ml",
+  "price": 12000,
+  "stock": 16
+ },
+ "1430": {
+  "name": "KANZ DUNGON QALAMPIR SOKLI 0.72ml",
+  "price": 14000,
+  "stock": 16
+ },
+ "1431": {
+  "name": "AVRORA MAYDA BODRING 0.72ml",
+  "price": 15000,
+  "stock": 17
+ },
+ "1432": {
+  "name": "SADAF SMETANA 25%",
+  "price": 14000,
+  "stock": 1
+ },
+ "1433": {
+  "name": "ROSHEN MOLOCHNAYA KAPLYA",
+  "price": 60000,
+  "stock": 7
+ },
+ "1434": {
+  "name": "ROSHEN MYATA KARAMEL",
+  "price": 50000,
+  "stock": 8
+ },
+ "1435": {
+  "name": "MASELKO VIPECHKI 72% 200gr",
+  "price": 8000,
+  "stock": 37
+ },
+ "1436": {
+  "name": "MASELKO SHOKOLADNIY 60% 230gr",
+  "price": 10000,
+  "stock": 11
+ },
+ "1437": {
+  "name": "MASELKO DESERTNIY 40% 200gr",
+  "price": 6000,
+  "stock": 78
+ },
+ "1438": {
+  "name": "SUBHON QOQI ZORI",
+  "price": 60000,
+  "stock": 4
+ },
+ "1439": {
+  "name": "MIKS QURUQ MEVALAR",
+  "price": 66000,
+  "stock": 3.046
+ },
+ "1440": {
+  "name": "QIRGIZ QAYMAQ 40% 250gr",
+  "price": 13000,
+  "stock": 4
+ },
+ "1441": {
+  "name": "SMETANKA 20% 700gr",
+  "price": 17000,
+  "stock": 4
+ },
+ "1442": {
+  "name": "MOZARELLA TURKIE",
+  "price": 17000,
+  "stock": 4
+ },
+ "1443": {
+  "name": "BEK RADUGA",
+  "price": 18000,
+  "stock": 9
+ },
+ "1444": {
+  "name": "SHERIN SETKA",
+  "price": 102000,
+  "stock": 8.738
+ },
+ "1445": {
+  "name": "SADAF BRINZA kg",
+  "price": 80000,
+  "stock": 1.75
+ },
+ "1446": {
+  "name": "TIDE 6kg",
+  "price": 189000,
+  "stock": 2
+ },
+ "1447": {
+  "name": "ZAM ZAM MM HOLDING 5l",
+  "price": 7000,
+  "stock": 58
+ },
+ "1448": {
+  "name": "SUXARIK MAYIZLI",
+  "price": 30000,
+  "stock": 3.33
+ },
+ "1449": {
+  "name": "ZAM ZAM MM HOLDING 10L",
+  "price": 12000,
+  "stock": 56
+ },
+ "1450": {
+  "name": "SEMICHKA T6",
+  "price": 55000,
+  "stock": 11.3
+ },
+ "1451": {
+  "name": "PRANNIK PACHKA",
+  "price": 10000,
+  "stock": 25
+ },
+ "1452": {
+  "name": "NOVVOT CHUPS OQ",
+  "price": 23000,
+  "stock": 9.626
+ },
+ "1453": {
+  "name": "Dona Tuxum",
+  "price": 1500,
+  "stock": 1126
+ },
+ "1454": {
+  "name": "Uy non",
+  "price": 5000,
+  "stock": 18
+ },
+ "1455": {
+  "name": "Lagmon 500gr",
+  "price": 10000,
+  "stock": 7
+ },
+ "1456": {
+  "name": "Lagmon 300gr",
+  "price": 7000,
+  "stock": 10
+ },
+ "1457": {
+  "name": "PIYOZ",
+  "price": 4000,
+  "stock": 4.524
+ },
+ "1458": {
+  "name": "KARTOSHKA",
+  "price": 5000,
+  "stock": 69.678
+ },
+ "1459": {
+  "name": "SABZI",
+  "price": 6000,
+  "stock": 5.892
+ },
+ "1460": {
+  "name": "RASHMILK SMETANA 10% 380gr",
+  "price": 7000,
+  "stock": 4
+ },
+ "1461": {
+  "name": "RASHMILK QAYMOQ 45% 190gr",
+  "price": 14000,
+  "stock": 3
+ },
+ "1462": {
+  "name": "SADAF QURT VAKUM",
+  "price": 1000,
+  "stock": 61
+ },
+ "1463": {
+  "name": "SADAF RYAJENKA 3.2% 500gr",
+  "price": 11000,
+  "stock": 1
+ },
+ "1464": {
+  "name": "SADAF KEFIR 1% 500gr",
+  "price": 7000,
+  "stock": 1
+ },
+ "1465": {
+  "name": "SADAF KEFIR 4% BANKA",
+  "price": 17000,
+  "stock": 4
+ },
+ "1466": {
+  "name": "SADAF TVAROG 400gr",
+  "price": 19000,
+  "stock": 1
+ },
+ "1467": {
+  "name": "SADAF KEFIR 3.2% 500gr",
+  "price": 8000,
+  "stock": 1
+ },
+ "1468": {
+  "name": "TUXUM PACHKA 15 DONA",
+  "price": 24000,
+  "stock": 6
+ },
+ "1469": {
+  "name": "TUXUM PACHKA 10DONA",
+  "price": 16000,
+  "stock": 6
+ },
+ "1470": {
+  "name": "Aksut SIR PLAVLENNIY",
+  "price": 8000,
+  "stock": 38
+ },
+ "1471": {
+  "name": "TOXTANIYOZ SOSISKA",
+  "price": 50000,
+  "stock": 2
+ },
+ "1472": {
+  "name": "FANTA 2L",
+  "price": 18000,
+  "stock": 23
+ },
+ "1473": {
+  "name": "FUSE TEA 1L MANGO MOYCHECHAK",
+  "price": 11000,
+  "stock": 0
+ },
+ "1474": {
+  "name": "GARDEN PET NOK 1.2L",
+  "price": 17000,
+  "stock": 126
+ },
+ "1475": {
+  "name": "GORILLA CAN 0.45",
+  "price": 12000,
+  "stock": 19
+ },
+ "1476": {
+  "name": "FLASH CAN ORIGINAL 0.45",
+  "price": 10000,
+  "stock": 19
+ },
+ "1477": {
+  "name": "SPRITE PET 0.5",
+  "price": 7000,
+  "stock": 7
+ },
+ "1478": {
+  "name": "Ays tea pet lesniye yagodi cherniy chay 1.25L",
+  "price": 10000,
+  "stock": 9
+ },
+ "1479": {
+  "name": "Ays tea pet shaftoli kok choy 1.25L",
+  "price": 10000,
+  "stock": 7
+ },
+ "1480": {
+  "name": "ROCKSTAR CAN ORIGINAL 0.5",
+  "price": 10000,
+  "stock": 45
+ },
+ "1481": {
+  "name": "NATAXTARI Mix 2L",
+  "price": 34000,
+  "stock": 24
+ },
+ "1482": {
+  "name": "GLOBAL MILK 25% 900gr",
+  "price": 22000,
+  "stock": 2
+ },
+ "1483": {
+  "name": "GLOBAL MILK 25% 500gr",
+  "price": 13000,
+  "stock": 6
+ },
+ "1484": {
+  "name": "Snickers Mix Mini kg",
+  "price": 140000,
+  "stock": 55.18
+ },
+ "1485": {
+  "name": "M&M's мол. шок. (EU) 112г",
+  "price": 25000,
+  "stock": 18
+ },
+ "1486": {
+  "name": "M&M's арахис (EU) 145gr",
+  "price": 25000,
+  "stock": 13
+ },
+ "1487": {
+  "name": "AKBEL SIR",
+  "price": 86000,
+  "stock": 15.065
+ },
+ "1488": {
+  "name": "KOSONSOY SIR",
+  "price": 93000,
+  "stock": 5.516
+ },
+ "1489": {
+  "name": "SIR PALOCHKA",
+  "price": 72000,
+  "stock": 3.384
+ },
+ "1490": {
+  "name": "TIM RADUGA SOSISKA",
+  "price": 51000,
+  "stock": 4.845
+ },
+ "1491": {
+  "name": "TIM PIRAMIDA SASISKA",
+  "price": 59000,
+  "stock": 3.7
+ },
+ "1492": {
+  "name": "SHERIN SERVELAT",
+  "price": 111000,
+  "stock": 3.769
+ },
+ "1493": {
+  "name": "TOXTANIYOZ DOKTORSKAYA",
+  "price": 105000,
+  "stock": 1.049
+ },
+ "1494": {
+  "name": "TIM MOSKOVISKIE",
+  "price": 62000,
+  "stock": 6.73
+ },
+ "1495": {
+  "name": "ANDALUS DOKTORSKAYA",
+  "price": 83000,
+  "stock": 4.268
+ },
+ "1496": {
+  "name": "SHERIN SALYAMI",
+  "price": 105000,
+  "stock": 5.696
+ },
+ "1497": {
+  "name": "TOXTANIYOZ KORONA",
+  "price": 135000,
+  "stock": 3.137
+ },
+ "1498": {
+  "name": "TIM PALTAVSKIY",
+  "price": 68000,
+  "stock": 6.044
+ },
+ "1499": {
+  "name": "SHERIN POKON",
+  "price": 108000,
+  "stock": 3.244
+ },
+ "1500": {
+  "name": "DLYA ZAVTRIK TIM",
+  "price": 56000,
+  "stock": 2.025
+ },
+ "1501": {
+  "name": "TOXTANIYOZ LYUBIMAYA",
+  "price": 121000,
+  "stock": 4.947
+ },
+ "1502": {
+  "name": "BANANZA",
+  "price": 20000,
+  "stock": 7.764
+ },
+ "1503": {
+  "name": "PEKAN YONGOQ",
+  "price": 135000,
+  "stock": 2.336
+ },
+ "1504": {
+  "name": "MAKADAMIYA",
+  "price": 115000,
+  "stock": 2.878
+ },
+ "1505": {
+  "name": "ORTA BODOM",
+  "price": 145000,
+  "stock": 0.548
+ },
+ "1506": {
+  "name": "MAYIZ ODDIY",
+  "price": 65000,
+  "stock": 2.812
+ },
+ "1507": {
+  "name": "MUMTOZ PISTA",
+  "price": 190000,
+  "stock": 1.486
+ },
+ "1508": {
+  "name": "DOLANA PISTA",
+  "price": 170000,
+  "stock": 1.814
+ },
+ "1509": {
+  "name": "OLIY BODOM",
+  "price": 175000,
+  "stock": 2.2
+ },
+ "1510": {
+  "name": "KESHU OLIY",
+  "price": 180000,
+  "stock": 3.698
+ },
+ "1511": {
+  "name": "AKBARI PISTA",
+  "price": 230000,
+  "stock": 3
+ },
+ "1512": {
+  "name": "KESHU ORTA",
+  "price": 150000,
+  "stock": 3.23
+ },
+ "1513": {
+  "name": "QIZIL MANGIZ",
+  "price": 80000,
+  "stock": 2.626
+ },
+ "1514": {
+  "name": "QANTAY QOQI KICHIK",
+  "price": 75000,
+  "stock": 4
+ },
+ "1515": {
+  "name": "Dobro 1.3 kg",
+  "price": 42000,
+  "stock": 11
+ },
+ "1516": {
+  "name": "Dobro 450 gr",
+  "price": 15000,
+  "stock": 19
+ },
+ "1517": {
+  "name": "MASHA KASHA MANNAYA RISOVAYA",
+  "price": 17000,
+  "stock": 17
+ },
+ "1518": {
+  "name": "OYIJONIM QUYMOG'I",
+  "price": 11000,
+  "stock": 20
+ },
+ "1519": {
+  "name": "PIE CAKE + 8и (240 гр)",
+  "price": 15000,
+  "stock": 10
+ },
+ "1520": {
+  "name": "﻿﻿PIE CAKE Classic + 8x (240 гр)",
+  "price": 15000,
+  "stock": 23
+ },
+ "1521": {
+  "name": "﻿﻿﻿BROWNIE CAKE MULTI PACK (200 гр)",
+  "price": 12000,
+  "stock": 9
+ },
+ "1522": {
+  "name": "﻿﻿WAFFLE CAKE + 6 (270 гр)",
+  "price": 18000,
+  "stock": 13
+ },
+ "1523": {
+  "name": "Zlatojar Pista Yogi 3l",
+  "price": 69000,
+  "stock": 4
+ },
+ "1524": {
+  "name": "Alina 3l Pista Yog",
+  "price": 65000,
+  "stock": 6
+ },
+ "1525": {
+  "name": "MADAL ASARTI 0,5",
+  "price": 12000,
+  "stock": 15
+ },
+ "1526": {
+  "name": "YASHKINO KURUASAN KLUBNIKA 180gr",
+  "price": 16000,
+  "stock": 4
+ },
+ "1527": {
+  "name": "YASHKINO KURUASAN SLIVICHNOY KREM 180gr",
+  "price": 16000,
+  "stock": 6
+ },
+ "1528": {
+  "name": "BONDI JELEZOM",
+  "price": 13000,
+  "stock": 10
+ },
+ "1529": {
+  "name": "BONDI YODOM",
+  "price": 13000,
+  "stock": 9
+ },
+ "1530": {
+  "name": "BONDI KALSIEM",
+  "price": 13000,
+  "stock": 8
+ },
+ "1531": {
+  "name": "YASHKINO KURUASAN SHOKOLADNIY KREM 180gr",
+  "price": 16000,
+  "stock": 5
+ },
+ "1532": {
+  "name": "YASHKINO VAFLI ORESHKAMI 200gr",
+  "price": 15000,
+  "stock": 20
+ },
+ "1533": {
+  "name": "YASHKINO VAFLI LIMON-LAYM 300gr",
+  "price": 16000,
+  "stock": 15
+ },
+ "1534": {
+  "name": "YASHKINO VAFLI  SLIVICHNOY 200gr",
+  "price": 11000,
+  "stock": 23
+ },
+ "1535": {
+  "name": "YASHKINO VAFLI SHOKOLADNI 200gr",
+  "price": 13000,
+  "stock": 24
+ },
+ "1536": {
+  "name": "YASHKINO VAFLI  SGUSHENKA 300gr",
+  "price": 16000,
+  "stock": 14
+ },
+ "1537": {
+  "name": "YASHKINO VAFLI  XALVOY 300gr",
+  "price": 16000,
+  "stock": 14
+ },
+ "1538": {
+  "name": "YASHKINO VAFLI  OREXOVOY 300gr",
+  "price": 16000,
+  "stock": 10
+ },
+ "1539": {
+  "name": "YASHKINO VAFLI SHOKOLADNI 300gr",
+  "price": 19000,
+  "stock": 14
+ },
+ "1540": {
+  "name": "YASHKINO VAFLI  OREXOVOY 200gr",
+  "price": 11000,
+  "stock": 24
+ },
+ "1541": {
+  "name": "YASHKINO VAFLI  SLIVICHNOY 300gr",
+  "price": 15000,
+  "stock": 12
+ },
+ "1542": {
+  "name": "YASHKINO VAFLI  GLAZIROVANNAYA 200gr",
+  "price": 15000,
+  "stock": 27
+ },
+ "1543": {
+  "name": "YASHKINO VAFLI  SGUSHENKA 200gr",
+  "price": 11000,
+  "stock": 24
+ },
+ "1544": {
+  "name": "MAKFA TRIOLLI 400gr",
+  "price": 11000,
+  "stock": 0
+ },
+ "1545": {
+  "name": "Xorazm Lazer kg",
+  "price": 22000,
+  "stock": 100
+ },
+ "1546": {
+  "name": "Dur Novvot kg",
+  "price": 17000,
+  "stock": 32.47
+ },
+ "1547": {
+  "name": "Oq Qand",
+  "price": 15000,
+  "stock": 12.012
+ },
+ "1548": {
+  "name": "SHAKAR",
+  "price": 13000,
+  "stock": 21.836
+ },
+ "1549": {
+  "name": "ALBENI ROUND 320 GR",
+  "price": 38000,
+  "stock": 12
+ },
+ "1550": {
+  "name": "NISO FALGA 10meter",
+  "price": 14000,
+  "stock": 4
+ },
+ "1551": {
+  "name": "КАРАМЕЛЬ Roshen Yogurtini 1кг",
+  "price": 57000,
+  "stock": 8
+ },
+ "1552": {
+  "name": "КАРАМЕЛь Roshen Butter-Milk 1кг",
+  "price": 57000,
+  "stock": 8
+ },
+ "1553": {
+  "name": "ROSHEN CRAZY BEE",
+  "price": 50000,
+  "stock": 8
+ },
+ "1554": {
+  "name": "ИРИС Milky Splash с молочной",
+  "price": 81000,
+  "stock": 5
+ },
+ "1555": {
+  "name": "CHOCOCREAM 600 gr",
+  "price": 45000,
+  "stock": 6
+ },
+ "1556": {
+  "name": "CHOCOCREAM 200  gr",
+  "price": 22000,
+  "stock": 14
+ },
+ "1557": {
+  "name": "Krember MOON CAKE VANIL 200gr",
+  "price": 11000,
+  "stock": 14
+ },
+ "1558": {
+  "name": "Майонез Махеевь \"Провансаль\" 50% пакет 380гр",
+  "price": 20000,
+  "stock": 0
+ },
+ "1559": {
+  "name": "PERSIL 3kg RUSSIA",
+  "price": 90000,
+  "stock": 2
+ },
+ "1560": {
+  "name": "Ariel Kopsula Dona",
+  "price": 4000,
+  "stock": 56
+ },
+ "1561": {
+  "name": "Ариел 1.5 кг",
+  "price": 60000,
+  "stock": 6
+ },
+ "1562": {
+  "name": "Tide 1.5 кг",
+  "price": 50000,
+  "stock": 6
+ },
+ "1563": {
+  "name": "TIDE 3kg",
+  "price": 94000,
+  "stock": 6
+ }
+}
